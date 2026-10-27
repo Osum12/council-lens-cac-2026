@@ -1,0 +1,78 @@
+[
+  {
+    "id": "document-mock-001",
+    "title": "MOCK ONLY: Sample Council Agenda Packet",
+    "documentType": "agenda_packet",
+    "meetingId": "meeting-mock-001",
+    "issueIds": [
+      "issue-mock-001",
+      "issue-mock-002"
+    ],
+    "publishedDate": "2026-10-12",
+    "url": null,
+    "description": "MOCK DATA: Fictional document metadata. No document is attached.",
+    "sourceName": "Mock source - replace with official source",
+    "dataMode": "mock",
+    "mockOnly": true
+  },
+  {
+    "id": "document-mock-002",
+    "title": "MOCK ONLY: Sample Planning Staff Report",
+    "documentType": "staff_report",
+    "meetingId": "meeting-mock-002",
+    "issueIds": [
+      "issue-mock-003"
+    ],
+    "publishedDate": "2026-10-15",
+    "url": null,
+    "description": "MOCK DATA: Fictional staff report metadata. No official report is represented.",
+    "sourceName": "Mock source - replace with official source",
+    "dataMode": "mock",
+    "mockOnly": true
+  },
+  {
+    "id": "document-mock-003",
+    "title": "MOCK ONLY: Sample Design Attachment",
+    "documentType": "attachment",
+    "meetingId": "meeting-mock-002",
+    "issueIds": [
+      "issue-mock-004"
+    ],
+    "publishedDate": "2026-10-15",
+    "url": null,
+    "description": "MOCK DATA: Fictional attachment metadata for Archive layout testing.",
+    "sourceName": "Mock source - replace with official source",
+    "dataMode": "mock",
+    "mockOnly": true
+  },
+  {
+    "id": "document-mock-004",
+    "title": "MOCK ONLY: Sample Corridor Brief",
+    "documentType": "supporting_document",
+    "meetingId": "meeting-mock-003",
+    "issueIds": [
+      "issue-mock-005"
+    ],
+    "publishedDate": "2026-10-27",
+    "url": null,
+    "description": "MOCK DATA: Fictional supporting-document metadata for map and search testing.",
+    "sourceName": "Mock source - replace with official source",
+    "dataMode": "mock",
+    "mockOnly": true
+  },
+  {
+    "id": "document-mock-005",
+    "title": "MOCK ONLY: Sample Public-Space Concept Sheet",
+    "documentType": "attachment",
+    "meetingId": "meeting-mock-001",
+    "issueIds": [
+      "issue-mock-002"
+    ],
+    "publishedDate": "2026-10-12",
+    "url": null,
+    "description": "MOCK DATA: Fictional attachment metadata; no official file is linked.",
+    "sourceName": "Mock source - replace with official source",
+    "dataMode": "mock",
+    "mockOnly": true
+  }
+]

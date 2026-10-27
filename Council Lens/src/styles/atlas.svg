@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" stroke="#2f3a8f" stroke-opacity="0.11" stroke-linecap="round">
+  <!-- Abstract linework in the manner of a street atlas. Not a real place. -->
+  <g stroke-width="1.7">
+    <path d="M-20 180C300 150 520 262 820 230S1340 120 1620 172"/>
+    <path d="M262 -20C300 240 210 520 330 760S420 1000 382 1120"/>
+    <path d="M1098 -20C1050 300 1180 560 1120 820S1060 1040 1150 1120"/>
+    <path d="M-20 820C260 780 600 902 900 860S1400 762 1620 802"/>
+  </g>
+  <g stroke-width="1">
+    <path d="M642 -20C702 200 602 420 722 620S822 980 762 1120"/>
+    <path d="M654 -20C714 200 614 420 734 620S834 980 774 1120"/>
+  </g>
+  <g stroke-width="0.9">
+    <g transform="translate(410 318) rotate(-12)">
+      <path d="M0 0H262M0 38H262M0 76H220M40 114H262M0 0V114M52 0V76M104 -10V124M156 0V114M208 38V124M262 0V114"/>
+    </g>
+    <g transform="translate(1196 286) rotate(18)">
+      <path d="M0 0H180M0 34H180M0 68H140M0 102H180M0 0V102M45 0V68M90 0V102M135 34V102M180 0V102"/>
+    </g>
+    <g transform="translate(96 470) rotate(6)">
+      <path d="M0 0H150M0 42H150M30 84H150M0 0V84M50 0V42M100 0V84M150 0V84"/>
+    </g>
+    <g transform="translate(880 944) rotate(-24)">
+      <path d="M0 0H210M0 36H210M0 72H170M0 0V72M70 0V72M140 -8V80M210 0V36"/>
+    </g>
+    <g transform="translate(1380 610) rotate(38)">
+      <path d="M0 0H130M0 40H130M0 80H90M0 0V80M65 0V80M130 0V40"/>
+    </g>
+    <g transform="translate(470 610) rotate(-4)">
+      <path d="M0 0H120M0 36H120M0 0V36M60 0V36M120 0V36"/>
+    </g>
+  </g>
+  <g stroke-width="0.9">
+    <path d="M330 760c40 20 64 52 70 96"/>
+    <circle cx="400" cy="862" r="7"/>
+    <path d="M1120 820c-36 18-58 46-64 84"/>
+    <circle cx="1055" cy="910" r="7"/>
+    <path d="M820 230c10 44 4 82-20 116"/>
+    <circle cx="797" cy="351" r="7"/>
+    <path d="M1490 168c-12 60-6 112 22 160"/>
+    <path d="M60 182c18 70 18 130 0 196"/>
+  </g>
+</svg>

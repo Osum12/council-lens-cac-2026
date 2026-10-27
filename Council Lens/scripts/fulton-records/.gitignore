@@ -1,0 +1,10 @@
+# Generated when the pipeline runs in this folder (see README.md); rebuilt from the county's records.
+# Anchored so the reviewed inputs in reviewed/ are never ignored.
+/raw/
+/docs/
+/dossiers/
+/norm.json
+/out-*.json
+/urlcheck.json
+/pagecheck.json
+/*.log

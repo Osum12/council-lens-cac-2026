@@ -1,0 +1,394 @@
+{
+ "3000 Hembree Road, Alpharetta, Georgia 30009": {
+  "lat": null
+ },
+ "4285 State Bridge Road, Alpharetta, Georgia 30022": {
+  "lat": null
+ },
+ "51 Thompson Street, Alpharetta, Georgia 30009": {
+  "lat": 34.07206,
+  "lon": -84.291568,
+  "matched": "51 THOMPSON ST, ALPHARETTA, GA, 30009"
+ },
+ "40 Cumming Street, Alpharetta, Georgia 30009": {
+  "lat": 34.078654,
+  "lon": -84.293383,
+  "matched": "40 CUMMING ST, ALPHARETTA, GA, 30009"
+ },
+ "5560 Abbotts Bridge Road, Johns Creek, Georgia 30097": {
+  "lat": 34.054826,
+  "lon": -84.197161,
+  "matched": "5560 ABBOTTS BRIDGE RD, JOHNS CREEK, GA, 30097"
+ },
+ "7105 Hall Road, Union City, Georgia 30213": {
+  "lat": 33.614556,
+  "lon": -84.617593,
+  "matched": "7105 HALL RD, FAIRBURN, GA, 30213"
+ },
+ "10365 Waters Road, Alpharetta, Georgia 30022": {
+  "lat": 34.034173,
+  "lon": -84.251613,
+  "matched": "10365 WATERS RD, ALPHARETTA, GA, 30022"
+ },
+ "2325 Old Milton Parkway, Alpharetta, Georgia 30009": {
+  "lat": 34.070398,
+  "lon": -84.290644,
+  "matched": "2325 OLD MILTON PKWY, ALPHARETTA, GA, 30009"
+ },
+ "4430 Webb Bridge Road, Alpharetta, Georgia 30005": {
+  "lat": 34.070601,
+  "lon": -84.230194,
+  "matched": "4430 WEBB BRIDGE RD, ALPHARETTA, GA, 30005"
+ },
+ "6001 Riverside Drive, South Fulton, Georgia 30336": {
+  "lat": null
+ },
+ "143 Alabama Street, SW, Atlanta, Georgia 30330": {
+  "lat": 33.753902,
+  "lon": -84.392491,
+  "matched": "143 ALABAMA ST SW, ATLANTA, GA, 30303"
+ },
+ "1665 Spinnaker Drive, Alpharetta, Georgia 30005": {
+  "lat": 34.078883,
+  "lon": -84.235791,
+  "matched": "1665 SPINNAKER DR, ALPHARETTA, GA, 30005"
+ },
+ "422 Hilderbrand Drive NE, Sandy Springs, Georgia 30328": {
+  "lat": 33.922531,
+  "lon": -84.373928,
+  "matched": "422 HILDERBRAND DR NE, SANDY SPRINGS, GA, 30328"
+ },
+ "1034 Hammond Drive, Sandy Springs, Georgia 30328": {
+  "lat": 33.918993,
+  "lon": -84.354561,
+  "matched": "1034 HAMMOND DR NE, SANDY SPRINGS, GA, 30328"
+ },
+ "11605 Jones Bridge Road, Johns Creek, Georgia 30022": {
+  "lat": 34.064689,
+  "lon": -84.212684,
+  "matched": "11605 JONES BRIDGE RD, JOHNS CREEK, GA, 30022"
+ },
+ "1001 Roswell Manor Circle, Roswell,Georgia 30076": {
+  "lat": 34.023794,
+  "lon": -84.314532,
+  "matched": "1001 ROSWELL MANOR CIR, ROSWELL, GA, 30076"
+ },
+ "7255 Hall Road, South Fulton, Georgia 30213": {
+  "lat": 33.615269,
+  "lon": -84.626068,
+  "matched": "7255 HALL RD, FAIRBURN, GA, 30213"
+ },
+ "4430 Webb Bridge Road, Johns Creek, Georgia 30005": {
+  "lat": 34.070601,
+  "lon": -84.230194,
+  "matched": "4430 WEBB BRIDGE RD, JOHNS CREEK, GA, 30005"
+ },
+ "6290 Abbotts Bridge Road, Johns Creek, Georgia 30097": {
+  "lat": null
+ },
+ "9435 Nesbit Ferry Road, Johns Creek,Georgia 30022": {
+  "lat": 34.015185,
+  "lon": -84.280532,
+  "matched": "9435 NESBIT FERRY RD, JOHNS CREEK, GA, 30022"
+ },
+ "5435 Old National Highway, South Fulton, Georgia 30349": {
+  "lat": 33.60767,
+  "lon": -84.471359,
+  "matched": "5435 OLD NATIONAL HWY, SOUTH FULTON, GA, 30349"
+ },
+ "12580 Crabapple Road, Milton, Georgia 30004": {
+  "lat": 34.088527,
+  "lon": -84.349517,
+  "matched": "12580 CRABAPPLE RD, MILTON, GA, 30004"
+ },
+ "3440 Old Alabama Road, Johns Creek, Georgia 30022": {
+  "lat": null
+ },
+ "6600 Peachtree Dunwoody Rd, Sandy Springs, Georgia 30328": {
+  "lat": 33.936948,
+  "lon": -84.353643,
+  "matched": "6600 PEACHTREE DUNWOODY RD NE, SANDY SPRINGS, GA, 30328"
+ },
+ "3660 Royal South Parkway, Atlanta, Georgia 30291": {
+  "lat": 33.587747,
+  "lon": -84.513948,
+  "matched": "3660 ROYAL SOUTH PKWY, ATLANTA, GA, 30349"
+ },
+ "4852 Lake Forrest Dr. NE, Atlanta, Georgia 30342": {
+  "lat": 33.887157,
+  "lon": -84.387343,
+  "matched": "4852 LAKE FORREST DR NW, ATLANTA, GA, 30342"
+ },
+ "5950 Plummer Road, South Fulton, Georgia 30336": {
+  "lat": 33.717957,
+  "lon": -84.583826,
+  "matched": "5950 PLUMMER RD SW, SOUTH FULTON, GA, 30336"
+ },
+ "400 Formwalt Street, Atlanta, Georgia 30312": {
+  "lat": 33.742879,
+  "lon": -84.395649,
+  "matched": "400 FORMWALT ST SW, ATLANTA, GA, 30312"
+ },
+ "5940 Plummer Road, South Fulton, Georgia 30336": {
+  "lat": 33.718141,
+  "lon": -84.583831,
+  "matched": "5940 PLUMMER RD SW, SOUTH FULTON, GA, 30336"
+ },
+ "3100 Northwinds Parkway, Alpharetta, Georgia 30009": {
+  "lat": null
+ },
+ "3000 Northwinds Parkway, Alpharetta, Georgia 30009": {
+  "lat": null
+ },
+ "3700 Wendell Drive, Ste 21, Atlanta, Georgia 30336": {
+  "lat": 33.768609,
+  "lon": -84.516378,
+  "matched": "3700 WENDELL DR SW, ATLANTA, GA, 30336"
+ },
+ "185 Central Ave SW, Atlanta, GA 30303": {
+  "lat": 33.750128,
+  "lon": -84.390365,
+  "matched": "185 CENTRAL AVE SW, ATLANTA, GA, 30303"
+ },
+ "185 Central Avenue, Atlanta, GA 30303": {
+  "lat": 33.750128,
+  "lon": -84.390365,
+  "matched": "185 CENTRAL AVE SW, ATLANTA, GA, 30303"
+ },
+ "1251 Fulton Industrial Blvd NW, Atlanta, GA 30336": {
+  "lat": 33.780417,
+  "lon": -84.509944,
+  "matched": "1251 FULTON INDUSTRIAL BLVD NW, ATLANTA, GA, 30336"
+ },
+ "5710 Stonewall Tell Road, College Park, GA 30349": {
+  "lat": 33.601613,
+  "lon": -84.550433,
+  "matched": "5710 STONEWALL TELL RD, COLLEGE PARK, GA, 30349"
+ },
+ "6500 Watson Street, Union City, Georgia 30291": {
+  "lat": null
+ },
+ "11660 Johns Creek Parkway, Johns Creek, Georgia 30097": {
+  "lat": null
+ },
+ "11660 Johns Creek Pkwy, Johns Creek, Georgia 30097": {
+  "lat": null
+ },
+ "1281 Fulton Industrial Boulevard, Atlanta, GA 30336": {
+  "lat": 33.78053,
+  "lon": -84.509834,
+  "matched": "1281 FULTON INDUSTRIAL BLVD NW, ATLANTA, GA, 30336"
+ },
+ "5195 Mason Road, Union City, Georgia 30349": {
+  "lat": 33.615667,
+  "lon": -84.547792,
+  "matched": "5195 MASON RD, ATLANTA, GA, 30349"
+ },
+ "315 Crabapple Court, Milton,Georgia 30004": {
+  "lat": 34.152424,
+  "lon": -84.260789,
+  "matched": "315 CRABAPPLE CT, MILTON, GA, 30004"
+ },
+ "5051 Stonewall Tell Road, Union City, Georgia 30349": {
+  "lat": 33.618027,
+  "lon": -84.559618,
+  "matched": "5051 STONEWALL TELL RD, ATLANTA, GA, 30349"
+ },
+ "11350 Lakefield Drive, Johns Creek, Georgia 30097": {
+  "lat": 34.058046,
+  "lon": -84.17055,
+  "matched": "11350 LAKEFIELD DR, JOHNS CREEK, GA, 30097"
+ },
+ "240 Mayfield Road, Alpharetta, Georgia 30009": {
+  "lat": 34.084551,
+  "lon": -84.303301,
+  "matched": "240 MAYFIELD RD, ALPHARETTA, GA, 30009"
+ },
+ "250 Mayfield Road, Alpharetta, Georgia 30009": {
+  "lat": 34.084211,
+  "lon": -84.302751,
+  "matched": "250 MAYFIELD RD, ALPHARETTA, GA, 30009"
+ },
+ "3444 Claire Drive, Hapeville, Georgia 30354": {
+  "lat": 33.659172,
+  "lon": -84.405303,
+  "matched": "3444 CLAIRE DR, HAPEVILLE, GA, 30354"
+ },
+ "3380 Old Alabama Road, Johns Creek, Georgia 30022": {
+  "lat": 34.022894,
+  "lon": -84.262036,
+  "matched": "3380 OLD ALABAMA RD, JOHNS CREEK, GA, 30022"
+ },
+ "1000 Lexington Farm Drive, Alpharetta, Georgia 30004": {
+  "lat": null
+ },
+ "6000 Jones Road, Union City, Georgia 30213": {
+  "lat": null
+ },
+ "12655 Birmingham Highway, Milton, Georgia 30004": {
+  "lat": 34.091868,
+  "lon": -84.33936,
+  "matched": "12655 BIRMINGHAM HWY, MILTON, GA, 30004"
+ },
+ "6500 Watson Street, Union City, GA 30291": {
+  "lat": null
+ },
+ "475 Fairburn Road, SW Atlanta, GA 30331": {
+  "lat": 33.741255,
+  "lon": -84.510514,
+  "matched": "475 FAIRBURN RD SW, ATLANTA, GA, 30331"
+ },
+ "2260 Old Milton Parkway, Alpharetta, Georgia 30009": {
+  "lat": 34.070879,
+  "lon": -84.292179,
+  "matched": "2260 OLD MILTON PKWY, ALPHARETTA, GA, 30009"
+ },
+ "575 Riverside Road, Roswell, Georgia 30075": {
+  "lat": 34.007026,
+  "lon": -84.347375,
+  "matched": "575 RIVERSIDE RD, ROSWELL, GA, 30075"
+ },
+ "901 Rice Street, Atlanta, GA 30318": {
+  "lat": 33.777946,
+  "lon": -84.426569,
+  "matched": "901 RICE ST NW, ATLANTA, GA, 30318"
+ },
+ "4175 Fulton Industrial Blvd., Unincorporated Fulton County, Georgia 30336": {
+  "lat": null
+ },
+ "7125 Bishop Road, South Fulton, Georgia 30213": {
+  "lat": 33.56348,
+  "lon": -84.63161,
+  "matched": "7125 BISHOP RD, FAIRBURN, GA, 30213"
+ },
+ "5555 Windward Parkway, Alpharetta, Georgia 30004": {
+  "lat": 34.087431,
+  "lon": -84.268793,
+  "matched": "5555 WINDWARD PKWY, ALPHARETTA, GA, 30004"
+ },
+ "4700 North Point Parkway, Alpharetta, GA 30022": {
+  "lat": 34.056727,
+  "lon": -84.269548,
+  "matched": "4700 N POINT PKWY, ALPHARETTA, GA, 30022"
+ },
+ "863 Holcomb Bridge Road, Roswell, Georgia 30075": {
+  "lat": 34.028638,
+  "lon": -84.335984,
+  "matched": "863 HOLCOMB BRIDGE RD, ROSWELL, GA, 30076"
+ },
+ "11370 Crabapple Road, Roswell, Georgia 30075": {
+  "lat": 34.057194,
+  "lon": -84.361163,
+  "matched": "11370 CRABAPPLE RD, ROSWELL, GA, 30075"
+ },
+ "95 Bethany Bend, Milton, Georgia 30004": {
+  "lat": null
+ },
+ "3965 Aero Drive, Atlanta, GA 30336": {
+  "lat": 33.778112,
+  "lon": -84.517155,
+  "matched": "3965 AERO DR NW, ATLANTA, GA, 30336"
+ },
+ "1580 Mayfield Road, Alpharetta, Georgia 30009": {
+  "lat": 34.093532,
+  "lon": -84.313663,
+  "matched": "1580 MAYFIELD RD, ALPHARETTA, GA, 30009"
+ },
+ "9135 Willeo Rd, Roswell, GA 30075": {
+  "lat": null
+ },
+ "605 Marietta Highway, Roswell, Georgia 30075": {
+  "lat": 34.010447,
+  "lon": -84.378741,
+  "matched": "605 MARIETTA HWY, ROSWELL, GA, 30075"
+ },
+ "5190 Mason Road, Union City, Georgia 30291": {
+  "lat": null
+ },
+ "540 Sweet Birch Lane, Roswell, Georgia 30076": {
+  "lat": 34.013263,
+  "lon": -84.325003,
+  "matched": "540 SWEET BIRCH LN, ROSWELL, GA, 30076"
+ },
+ "1180 Upper Hembree Road, Alpharetta, Georgia 30076": {
+  "lat": 34.068978,
+  "lon": -84.329304,
+  "matched": "1180 UPPER HEMBREE RD, ROSWELL, GA, 30076"
+ },
+ "11705 Fox Road, Johns Creek, Georgia 30005": {
+  "lat": 34.068019,
+  "lon": -84.214895,
+  "matched": "11705 FOX RD, JOHNS CREEK, GA, 30005"
+ },
+ "515 John Wesley Dobbs Avenue, NE, Atlanta, Georgia 30312": {
+  "lat": 33.759253,
+  "lon": -84.37003,
+  "matched": "515 JOHN WESLEY DOBBS AVE NE, ATLANTA, GA, 30312"
+ },
+ "93 Canton Street, Alpharetta, Georgia 30009": {
+  "lat": 34.078331,
+  "lon": -84.296733,
+  "matched": "93 CANTON ST, ALPHARETTA, GA, 30009"
+ },
+ "455 Highbrook Drive NE, Sandy Springs, Georgia 30342": {
+  "lat": 33.888571,
+  "lon": -84.372488,
+  "matched": "455 HIGHBROOK DR NE, SANDY SPRINGS, GA, 30342"
+ },
+ "4888 Jett Road NW, Sandy Springs, Georgia 30327": {
+  "lat": 33.888842,
+  "lon": -84.416933,
+  "matched": "4888 JETT RD NW, SANDY SPRINGS, GA, 30327"
+ },
+ "6669 Peachtree Dunwoody Road, Sandy Springs, Georgia 30128": {
+  "lat": null
+ },
+ "7741 Roswell Rd NE, Sandy Springs, GA 30350": {
+  "lat": 33.966371,
+  "lon": -84.362726,
+  "matched": "7741 ROSWELL RD, SANDY SPRINGS, GA, 30350"
+ },
+ "395 Pryor Street, SW, Atlanta, GA 30312": {
+  "lat": 33.743615,
+  "lon": -84.394558,
+  "matched": "395 PRYOR ST SW, ATLANTA, GA, 30312"
+ },
+ "3625 Brookside Parkway, Alpharetta, Georgia 30022": {
+  "lat": 34.063296,
+  "lon": -84.253939,
+  "matched": "3625 BROOKSIDE PKWY, ALPHARETTA, GA, 30022"
+ },
+ "7055 Campbellton Road, Fulton County, Georgia 30336": {
+  "lat": null
+ },
+ "515 Fairburn Road, Atlanta, GA 30331": {
+  "lat": 33.769448,
+  "lon": -84.50003,
+  "matched": "515 FAIRBURN RD, ATLANTA, GA, 30331"
+ },
+ "895 Marietta Blvd, Atlanta, GA 30318": {
+  "lat": 33.780253,
+  "lon": -84.429037,
+  "matched": "895 MARIETTA BLVD NW, ATLANTA, GA, 30318"
+ },
+ "2885 Church Street, East Point, GA 30344": {
+  "lat": 33.676074,
+  "lon": -84.444798,
+  "matched": "2885 CHURCH ST, EAST POINT, GA, 30344"
+ },
+ "174 North Main Street, Alpharetta, Georgia 30009": {
+  "lat": 34.080001,
+  "lon": -84.294678,
+  "matched": "174 N MAIN ST, ALPHARETTA, GA, 30009"
+ },
+ "35 Glenlake Parkway, Sandy Springs, Georgia 30328": {
+  "lat": 33.936261,
+  "lon": -84.360254,
+  "matched": "35 GLENLAKE PKWY NE, SANDY SPRINGS, GA, 30328"
+ },
+ "6350 Hospital Parkway, Johns Creek, Georgia 30097": {
+  "lat": 34.067144,
+  "lon": -84.173555,
+  "matched": "6350 HOSPITAL PKWY, JOHNS CREEK, GA, 30097"
+ }
+}

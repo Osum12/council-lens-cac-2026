@@ -1,0 +1,602 @@
+[
+ {
+  "id": "issue-26-0430-tsplost-referendum",
+  "title": "Transportation sales tax (TSPLOST) referendum",
+  "category": "transportation",
+  "summary": "The board voted to ask for a referendum on November 3, 2026 on a 0.75 percent transportation sales tax in part of Fulton County. If voters approve, the tax would run for five years starting April 1, 2027 and is estimated to raise $762,393,688 for transportation improvements. The board also approved an agreement with cities on how the money would be shared. The vote was 4-0, with two commissioners absent.",
+  "status": "approved",
+  "statusAsOf": "2026-08-03",
+  "meetingIds": [
+   "meeting-2026-08-03-boc"
+  ],
+  "documentIds": [
+   "document-2026-08-03-boc-agenda",
+   "document-26-0430-tsplost-resolution"
+  ],
+  "location": null,
+  "whyItMayMatter": "Voters, not the board, make the final decision on November 3, 2026. The tax would add to the sales tax paid on purchases in the area where it applies.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16122&GUID=ED01E9FD-A12D-471E-B303-54AB5DBA357F"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": true
+ },
+ {
+  "id": "issue-26-0461-data-center-incentives",
+  "title": "Opposing tax breaks for data centers",
+  "category": "development_and_zoning",
+  "summary": "The board approved a resolution opposing tax abatements or other financial incentives for data center projects from development authorities in Fulton County, and urging the Development Authority of Fulton County not to approve them. An amendment made it apply to every development authority in the county. The vote was 5-0, with one commissioner absent.",
+  "status": "approved",
+  "statusAsOf": "2026-08-05",
+  "meetingIds": [
+   "meeting-2026-08-05-boc"
+  ],
+  "documentIds": [
+   "document-2026-08-05-boc-agenda",
+   "document-26-0461-data-center-resolution"
+  ],
+  "location": null,
+  "whyItMayMatter": "A resolution states the board’s position; it does not by itself stop a development authority from acting.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16303&GUID=622BF11E-6795-427D-A586-1D0D751FFBF9"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": true
+ },
+ {
+  "id": "issue-26-0460-budget-commission",
+  "title": "A new Budget Commission",
+  "category": "government",
+  "summary": "The board re-established a Budget Commission to help prepare the county’s yearly budget. It has four members: the county manager, the chief financial officer, one commissioner from districts 1–3, and one from districts 4–6. The vote was 4 yes, with one abstention and one commissioner not voting.",
+  "status": "approved",
+  "statusAsOf": "2026-08-05",
+  "meetingIds": [
+   "meeting-2026-08-05-boc"
+  ],
+  "documentIds": [
+   "document-2026-08-05-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "The commission shapes the budget that decides how county money is spent each year.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16305&GUID=D750CAF5-E63A-4D76-9E13-E93DB4276A25"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0451-board-of-health-fees",
+  "title": "Changes to Board of Health environmental health fees",
+  "category": "health",
+  "summary": "The board approved changes to the Fulton County Board of Health’s fees for environmental health services, such as restaurant plan reviews: some fees go down, some are removed, and some new ones are added. The change takes effect 30 days after approval.",
+  "status": "approved",
+  "statusAsOf": "2026-08-05",
+  "meetingIds": [
+   "meeting-2026-08-05-boc"
+  ],
+  "documentIds": [
+   "document-2026-08-05-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "These fees are paid by businesses such as restaurants and food trucks.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16041&GUID=3540E03A-2EEC-4556-9AC9-8A6A4C265C99"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0454-election-mail-contract",
+  "title": "Election mailing contract",
+  "category": "elections",
+  "summary": "The board approved a $297,700 contract with KNOWiNK, LLC for election mailings, including precinct cards, voter notices, and printing and mailing absentee ballots, through December 31, 2026.",
+  "status": "approved",
+  "statusAsOf": "2026-08-05",
+  "meetingIds": [
+   "meeting-2026-08-05-boc"
+  ],
+  "documentIds": [
+   "document-2026-08-05-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "This pays for the notices and absentee ballots that voters receive by mail.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16183&GUID=B0C140C6-EEF1-45E3-9550-37C1B198BE8B"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0515-st-mark-ame",
+  "title": "Saving the historic St. Mark AME Church",
+  "category": "housing_and_neighborhoods",
+  "summary": "The board approved $15,000 in county tax-district funds toward an $80,000 effort to stabilize the historic St. Mark AME Church building at 491 James P. Brawley Drive NW. The building dates from 1920. A $20,000 Georgia Trust for Historic Preservation grant is also part of the funding.",
+  "status": "approved",
+  "statusAsOf": "2026-08-19",
+  "meetingIds": [
+   "meeting-2026-08-19-boc"
+  ],
+  "documentIds": [
+   "document-2026-08-19-boc-agenda"
+  ],
+  "location": {
+   "label": "491 James P. Brawley Dr NW",
+   "address": "491 James P. Brawley Dr NW, Atlanta, GA 30314",
+   "latitude": 33.766308,
+   "longitude": -84.412517,
+   "locationType": "approximate",
+   "verified": false
+  },
+  "whyItMayMatter": "The money helps keep a historic neighborhood building from further damage.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16369&GUID=CC58802A-D35E-43CA-A411-A73D32F7768B"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0517-senior-transportation",
+  "title": "The future of senior transportation services",
+  "category": "transportation",
+  "summary": "After an assessment of the senior transportation program on August 19, 2026, the board directed staff to start talks with MARTA about MARTA paying for, and possibly running, the program, and to report back within 90 days. On October 7, 2026 the board held (postponed) a request to extend the current contract with Transdev Services for all of 2027, for up to $9,589,074.96.",
+  "status": "under_consideration",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-08-19-boc",
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-08-19-boc-agenda",
+   "document-2026-10-07-boc-agenda",
+   "document-26-0517-senior-transportation-briefing"
+  ],
+  "location": null,
+  "whyItMayMatter": "No decision has been made yet on who will provide senior rides in 2027. The program serves older adults and Behavioral Health clients.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16311&GUID=431D2F7E-0701-4C8D-9ABA-5DDD5360FE40",
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16473&GUID=488F0C8F-F48C-42F4-9AB9-579AFDE78596"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": true
+ },
+ {
+  "id": "issue-26-0538-jail-elevators",
+  "title": "Modernizing the jail’s elevators",
+  "category": "public_safety",
+  "summary": "The board approved a $4,422,342 contract with TK Elevator Corporation to modernize all nine elevators at the Fulton County Jail at 901 Rice Street, with maintenance during the work and a one-year warranty. Construction is planned for 560 days. The vote was 6-0.",
+  "status": "approved",
+  "statusAsOf": "2026-09-02",
+  "meetingIds": [
+   "meeting-2026-09-02-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-02-boc-agenda",
+   "document-26-0538-jail-elevator-recommendation"
+  ],
+  "location": {
+   "label": "Fulton County Jail, 901 Rice St NW",
+   "address": "901 Rice Street NW, Atlanta, GA 30318",
+   "latitude": 33.777946,
+   "longitude": -84.426569,
+   "locationType": "approximate",
+   "verified": false
+  },
+  "whyItMayMatter": "Working elevators matter for the safety of people held in the jail and the staff who work there.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=15887&GUID=286B02B4-685E-4394-ADAA-9A48FAB16322"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0546-roswell-water-main",
+  "title": "Water main work for the Riverside Road project in Roswell",
+  "category": "utilities",
+  "summary": "The board approved an agreement with the City of Roswell to move and upgrade county water mains for road improvements on Riverside Road between Riviera Road and the Riverside Road/Dogwood Road intersection, at an estimated $1,454,580. The vote was 6-0.",
+  "status": "approved",
+  "statusAsOf": "2026-09-02",
+  "meetingIds": [
+   "meeting-2026-09-02-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-02-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "People who use Riverside Road may see construction while the city’s road project and the water work happen.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16319&GUID=553748E7-74C2-42D5-B93A-DB8A045EAC12"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0547-milton-water-main",
+  "title": "Water main work for the Crabapple trail project in Milton",
+  "category": "utilities",
+  "summary": "The board approved an agreement with the City of Milton to move county water mains for the Crabapple Multiuse Trail Connection along SR 372/Crabapple Road and Green Road, at an estimated $284,800. The vote was 6-0.",
+  "status": "approved",
+  "statusAsOf": "2026-09-02",
+  "meetingIds": [
+   "meeting-2026-09-02-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-02-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "This clears the way for a new multiuse trail connection in Crabapple.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16363&GUID=A485699B-F2E7-453A-AB9A-00302D67B64E"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0549-thurmond-homes",
+  "title": "12 affordable homes for sale in Vine City",
+  "category": "housing_and_neighborhoods",
+  "summary": "The board approved $210,000 in county tax-district funds toward 12 new single-family homes for sale at 834 Thurmond Street NW in Vine City, for buyers earning 80 percent of the area median income or less. The homes are estimated to sell for about $285,120 each, and the total budget is $4,648,498.",
+  "status": "approved",
+  "statusAsOf": "2026-09-02",
+  "meetingIds": [
+   "meeting-2026-09-02-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-02-boc-agenda"
+  ],
+  "location": {
+   "label": "834 Thurmond St NW",
+   "address": "834 Thurmond Street NW, Atlanta, GA 30314",
+   "latitude": 33.760384,
+   "longitude": -84.414467,
+   "locationType": "approximate",
+   "verified": false
+  },
+  "whyItMayMatter": "These homes are meant to help lower- and middle-income families buy a home in the neighborhood.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16420&GUID=A0BF6999-150A-4A99-8681-8A4189B510CA"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0550-brawley-apartments",
+  "title": "18 affordable apartments on James P. Brawley Drive",
+  "category": "housing_and_neighborhoods",
+  "summary": "The board approved $250,000 in county tax-district funds toward an 18-unit affordable apartment building at 280 James P. Brawley Drive NW in Vine City, with all units for households earning 80 percent of the area median income or less. The project budget is $6,765,000.",
+  "status": "approved",
+  "statusAsOf": "2026-09-02",
+  "meetingIds": [
+   "meeting-2026-09-02-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-02-boc-agenda"
+  ],
+  "location": {
+   "label": "280 James P. Brawley Dr NW",
+   "address": "280 James P. Brawley Drive NW, Atlanta, GA 30314",
+   "latitude": 33.762188,
+   "longitude": -84.412694,
+   "locationType": "approximate",
+   "verified": false
+  },
+  "whyItMayMatter": "The project adds affordable rental homes in Vine City.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16421&GUID=287C0DAC-CD91-40CE-9217-93B803CED16B"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0551-paines-apartments",
+  "title": "25 affordable apartments on Paines Avenue",
+  "category": "housing_and_neighborhoods",
+  "summary": "The board approved $375,000 in county tax-district funds toward a 25-unit affordable apartment development at 383 Paines Avenue NW in English Avenue, with units for households earning 30 to 80 percent of the area median income.",
+  "status": "approved",
+  "statusAsOf": "2026-09-02",
+  "meetingIds": [
+   "meeting-2026-09-02-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-02-boc-agenda",
+   "document-26-0551-paines-fact-sheet"
+  ],
+  "location": {
+   "label": "383 Paines Ave NW",
+   "address": "383 Paines Avenue NW, Atlanta, GA 30314",
+   "latitude": 33.765014,
+   "longitude": -84.414657,
+   "locationType": "approximate",
+   "verified": false
+  },
+  "whyItMayMatter": "The project adds affordable rental homes in English Avenue.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16422&GUID=81B6E52B-47E3-4C3B-B7BB-C8FC3053D1A4"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0603-oliver-apartments",
+  "title": "54 affordable apartments on Oliver Street",
+  "category": "housing_and_neighborhoods",
+  "summary": "The board approved $625,000 in county tax-district funds toward a 54-unit affordable apartment development on a vacant site at 404 Oliver Street NW in English Avenue, with one-, two- and three-bedroom homes for households earning 30 to 80 percent of the area median income. The vote was 5-0, with one commissioner absent.",
+  "status": "approved",
+  "statusAsOf": "2026-09-16",
+  "meetingIds": [
+   "meeting-2026-09-16-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-16-boc-agenda",
+   "document-26-0603-oliver-fact-sheet"
+  ],
+  "location": {
+   "label": "404 Oliver St NW",
+   "address": "404 Oliver Street NW, Atlanta, GA 30318",
+   "latitude": 33.765739,
+   "longitude": -84.415646,
+   "locationType": "approximate",
+   "verified": false
+  },
+  "whyItMayMatter": "It is the largest of the affordable housing projects the board funded in this period.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16484&GUID=71717D18-4B8B-4573-A889-09F816E466E6"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0662-2026-property-tax-rates",
+  "title": "2026 county property tax rates",
+  "category": "budget_and_taxes",
+  "summary": "On September 16, 2026 the board proposed keeping the General Fund rate at 8.87 mills, which is above the rollback rate, so Georgia law required three public hearings (two on September 30 and one on October 7). On October 7 a motion for the lower rollback rate (8.822 mills, according to the county’s Finance presentation) failed for lack of a second. The board then adopted 8.87 mills for the General Fund, 0.169 mills for the Bond Fund, and 9.431 mills for the Fulton Industrial District, by a vote of 4 yes, with one abstention and one commissioner not voting.",
+  "status": "approved",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-09-16-boc",
+   "meeting-2026-09-30-boc",
+   "meeting-2026-09-30-boc-evening",
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-16-boc-agenda",
+   "document-2026-09-30-boc-agenda",
+   "document-2026-09-30-boc-evening-agenda",
+   "document-2026-10-07-boc-agenda",
+   "document-26-0662-millage-presentation"
+  ],
+  "location": null,
+  "whyItMayMatter": "This rate is used to calculate the county share of property tax bills. Because it is above the rollback rate, the county describes it as a tax increase.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16428&GUID=B46538B4-98A1-46BE-898A-9F10F7DC78E3",
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16430&GUID=C75AE283-A97C-445C-BBAC-E29E78BF50E9"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": true
+ },
+ {
+  "id": "issue-26-0596-2027-health-premiums",
+  "title": "2027 health insurance premiums for county employees",
+  "category": "budget_and_taxes",
+  "summary": "On September 16, 2026 the board approved 2027 premium rates for employee medical, dental and vision plans, except the Anthem plans. On September 30 it approved the 2027 Anthem medical and pharmacy rates by a vote of 4-1, with one commissioner not voting.",
+  "status": "approved",
+  "statusAsOf": "2026-09-30",
+  "meetingIds": [
+   "meeting-2026-09-16-boc",
+   "meeting-2026-09-30-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-16-boc-agenda",
+   "document-2026-09-30-boc-agenda",
+   "document-26-0596-medical-premiums"
+  ],
+  "location": null,
+  "whyItMayMatter": "These rates set what county employees and retirees pay for health coverage next year.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16438&GUID=476F92EC-74CE-4A74-AD73-46D0EA4ADF94",
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16538&GUID=520AE42F-949F-4992-BED5-F7C1271B46D1"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0606-kratom",
+  "title": "Asking the state to restrict kratom sales",
+  "category": "health",
+  "summary": "The board approved a resolution urging the Georgia General Assembly to ban over-the-counter sales of synthetic or modified kratom products and to require natural kratom to be sold only behind pharmacy counters. The vote was 5-0, with one commissioner absent.",
+  "status": "approved",
+  "statusAsOf": "2026-09-16",
+  "meetingIds": [
+   "meeting-2026-09-16-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-16-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "This is a request to state lawmakers; it does not change the law by itself.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16480&GUID=C69AF361-28B2-437B-9CDC-5E730F2818B3"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0600-food-resilience",
+  "title": "Encouraging community gardens and food resilience",
+  "category": "health",
+  "summary": "A resolution encouraging home, school, faith-based and community gardens, food-preservation education, and support for local farmers, in response to fertilizer and food supply problems, failed on September 16, 2026 with 3 votes, short of the 4 needed. It passed on October 7, 2026 with 4 votes.",
+  "status": "approved",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-09-16-boc",
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-16-boc-agenda",
+   "document-2026-10-07-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "The resolution encourages action and asks for a public-education effort; it does not fund a program by itself.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16481&GUID=953DA058-9197-48B7-B762-3EA20C654B2E"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0601-public-comment-policy",
+  "title": "Limiting public comment at board meetings",
+  "category": "government",
+  "summary": "A proposed change would have limited spoken public comment at board meetings to topics reasonably related to items on that meeting’s agenda, and set rules for handling disruptions. It was held on September 16, 2026. On October 7, 2026 the motion to approve it failed for lack of a second.",
+  "status": "denied",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-09-16-boc",
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-16-boc-agenda",
+   "document-2026-10-07-boc-agenda",
+   "document-26-0601-public-comment-policy"
+  ],
+  "location": null,
+  "whyItMayMatter": "Public comment is how residents speak directly to commissioners at meetings. The current rules stay in place.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16482&GUID=A28A07C2-EAD7-4815-B2CF-F2E6991235C7"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": true
+ },
+ {
+  "id": "issue-26-0604-voting-abstention-rules",
+  "title": "Rules on when commissioners must abstain from votes",
+  "category": "government",
+  "summary": "A proposed ordinance would add the ethics code’s rules on abstaining and disclosing conflicts of interest to the board’s voting rules. It was held on September 16, 2026, and held again on October 7, 2026.",
+  "status": "under_consideration",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-09-16-boc",
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-09-16-boc-agenda",
+   "document-2026-10-07-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "No decision has been made. The rules are about when commissioners with a personal interest should not vote.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16488&GUID=A718ECF2-B8C6-4B24-82A4-9DE7CCEA13AD"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0675-ethics-code",
+  "title": "A rewrite of the county ethics code",
+  "category": "government",
+  "summary": "The board approved a resolution introducing a revised Code of Ethics. It would abolish the Board of Ethics and have independent officers, who are experienced attorneys, screen and decide ethics complaints. The County Attorney was directed to prepare an ordinance to adopt it. The vote was 4-1, with one commissioner absent. The new code takes effect only once the board adopts that ordinance, which had not come up for a vote as of the board’s October 21, 2026 meeting.",
+  "status": "under_consideration",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-10-07-boc-agenda",
+   "document-26-0675-ethics-resolution"
+  ],
+  "location": null,
+  "whyItMayMatter": "The revised code is not in effect yet; it still needs an adopting ordinance.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16576&GUID=F5B7565B-54D7-4DD9-804B-0B42735DF53D"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0680-ai-policy",
+  "title": "A county policy on artificial intelligence",
+  "category": "government",
+  "summary": "The board directed the County Manager to develop policies and procedures for how county government uses artificial intelligence, by a vote of 5-0 with one commissioner absent. A separate, more detailed AI resolution (26-0679) failed for lack of a second at the same meeting.",
+  "status": "approved",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-10-07-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "The policy is still to be written by county staff.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16580&GUID=DEBAC292-788C-4787-A268-A1AF54B01881",
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16569&GUID=3AB0101A-6A39-4458-A65D-63382CA0E4B1"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0677-my-justice-portal",
+  "title": "Video calls between lawyers and people held in county jails",
+  "category": "public_safety",
+  "summary": "The board approved up to $108,000 in 2026 for a secure communications system, such as the My Justice Portal platform, that lets lawyers talk confidentially with people held in county detention facilities using tablets already in the jails. Staff were also asked to find up to $327,725 for 2027 in next year’s proposed budget.",
+  "status": "approved",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-10-07-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "Easier contact with lawyers can reduce delays in cases.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16574&GUID=0AFC3730-A178-4839-8160-F9DA3207430B"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ },
+ {
+  "id": "issue-26-0678-private-equity-health-care",
+  "title": "Resolution on private equity in health care",
+  "category": "health",
+  "summary": "A resolution would have urged Congress and the Georgia General Assembly to limit corporate and private equity ownership of medical practices, citing rising health care costs. On October 7, 2026 the motion to approve it failed for lack of a second.",
+  "status": "denied",
+  "statusAsOf": "2026-10-07",
+  "meetingIds": [
+   "meeting-2026-10-07-boc"
+  ],
+  "documentIds": [
+   "document-2026-10-07-boc-agenda"
+  ],
+  "location": null,
+  "whyItMayMatter": "The resolution was not adopted.",
+  "sourceUrls": [
+   "https://fulton.legistar.com/LegislationDetail.aspx?ID=16575&GUID=AFAB026C-DF10-4622-BB62-887ECAA449A6"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "featured": false
+ }
+]

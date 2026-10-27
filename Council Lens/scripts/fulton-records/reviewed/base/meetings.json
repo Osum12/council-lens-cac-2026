@@ -1,0 +1,186 @@
+[
+ {
+  "id": "meeting-2026-08-03-boc",
+  "title": "Board of Commissioners Special Called Meeting, August 3, 2026",
+  "meetingType": "board_of_commissioners",
+  "date": "2026-08-03",
+  "startTime": "10:00",
+  "status": "completed",
+  "summary": "Special called meeting. The board voted to ask for a November 3, 2026 referendum on a transportation sales tax (TSPLOST) in part of the county.",
+  "officialPageUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6395&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+  "recordingUrl": "https://fulton.legistar.com/Video.aspx?Mode=Granicus&ID1=471&G=197058BF-F352-4423-BE44-04DFABBD8188&Mode2=Video",
+  "agendaDocumentIds": [
+   "document-2026-08-03-boc-agenda"
+  ],
+  "issueIds": [
+   "issue-26-0430-tsplost-referendum"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "lastVerifiedAt": "2026-10-22"
+ },
+ {
+  "id": "meeting-2026-08-05-boc",
+  "title": "Board of Commissioners First Regular Meeting, August 5, 2026",
+  "meetingType": "board_of_commissioners",
+  "date": "2026-08-05",
+  "startTime": "10:00",
+  "status": "completed",
+  "summary": "Regular meeting. Actions included a resolution opposing tax breaks for data centers, a new Budget Commission, Board of Health fee changes, and an election mailing contract.",
+  "officialPageUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6391&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+  "recordingUrl": "https://fulton.legistar.com/Video.aspx?Mode=Granicus&ID1=473&G=197058BF-F352-4423-BE44-04DFABBD8188&Mode2=Video",
+  "agendaDocumentIds": [
+   "document-2026-08-05-boc-agenda"
+  ],
+  "issueIds": [
+   "issue-26-0461-data-center-incentives",
+   "issue-26-0460-budget-commission",
+   "issue-26-0451-board-of-health-fees",
+   "issue-26-0454-election-mail-contract"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "lastVerifiedAt": "2026-10-22"
+ },
+ {
+  "id": "meeting-2026-08-19-boc",
+  "title": "Board of Commissioners Second Regular Meeting, August 19, 2026",
+  "meetingType": "board_of_commissioners",
+  "date": "2026-08-19",
+  "startTime": "10:00",
+  "status": "completed",
+  "summary": "Regular meeting. The board heard an assessment of the senior transportation program and asked staff to talk with MARTA about funding it, and approved a grant to stabilize the historic St. Mark AME Church.",
+  "officialPageUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6392&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+  "recordingUrl": "https://fulton.legistar.com/Video.aspx?Mode=Granicus&ID1=475&G=197058BF-F352-4423-BE44-04DFABBD8188&Mode2=Video",
+  "agendaDocumentIds": [
+   "document-2026-08-19-boc-agenda"
+  ],
+  "issueIds": [
+   "issue-26-0515-st-mark-ame",
+   "issue-26-0517-senior-transportation"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "lastVerifiedAt": "2026-10-22"
+ },
+ {
+  "id": "meeting-2026-09-02-boc",
+  "title": "Board of Commissioners First Regular Meeting, September 2, 2026",
+  "meetingType": "board_of_commissioners",
+  "date": "2026-09-02",
+  "startTime": "10:00",
+  "status": "completed",
+  "summary": "Regular meeting. Actions included a $4.4 million contract to modernize the jail elevators, water main agreements with Roswell and Milton, and three affordable housing grants in Vine City and English Avenue.",
+  "officialPageUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6394&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+  "recordingUrl": "https://fulton.legistar.com/Video.aspx?Mode=Granicus&ID1=477&G=197058BF-F352-4423-BE44-04DFABBD8188&Mode2=Video",
+  "agendaDocumentIds": [
+   "document-2026-09-02-boc-agenda"
+  ],
+  "issueIds": [
+   "issue-26-0538-jail-elevators",
+   "issue-26-0546-roswell-water-main",
+   "issue-26-0547-milton-water-main",
+   "issue-26-0549-thurmond-homes",
+   "issue-26-0550-brawley-apartments",
+   "issue-26-0551-paines-apartments"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "lastVerifiedAt": "2026-10-22"
+ },
+ {
+  "id": "meeting-2026-09-16-boc",
+  "title": "Board of Commissioners Second Regular Meeting, September 16, 2026",
+  "meetingType": "board_of_commissioners",
+  "date": "2026-09-16",
+  "startTime": "10:00",
+  "status": "completed",
+  "summary": "Regular meeting. The board proposed a 2026 General Fund property tax rate of 8.87 mills, approved most 2027 employee health premiums, and held or rejected several resolutions.",
+  "officialPageUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6396&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+  "recordingUrl": "https://fulton.legistar.com/Video.aspx?Mode=Granicus&ID1=479&G=197058BF-F352-4423-BE44-04DFABBD8188&Mode2=Video",
+  "agendaDocumentIds": [
+   "document-2026-09-16-boc-agenda"
+  ],
+  "issueIds": [
+   "issue-26-0603-oliver-apartments",
+   "issue-26-0662-2026-property-tax-rates",
+   "issue-26-0596-2027-health-premiums",
+   "issue-26-0606-kratom",
+   "issue-26-0600-food-resilience",
+   "issue-26-0601-public-comment-policy",
+   "issue-26-0604-voting-abstention-rules"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "lastVerifiedAt": "2026-10-22"
+ },
+ {
+  "id": "meeting-2026-09-30-boc",
+  "title": "Board of Commissioners Special Called Meeting (property tax hearing), September 30, 2026",
+  "meetingType": "board_of_commissioners",
+  "date": "2026-09-30",
+  "startTime": "10:00",
+  "status": "completed",
+  "summary": "Special called meeting with a public hearing on the proposed 2026 property tax rate. The board also approved the 2027 Anthem health plan premiums.",
+  "officialPageUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6403&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+  "recordingUrl": "https://fulton.legistar.com/Video.aspx?Mode=Granicus&ID1=482&G=197058BF-F352-4423-BE44-04DFABBD8188&Mode2=Video",
+  "agendaDocumentIds": [
+   "document-2026-09-30-boc-agenda"
+  ],
+  "issueIds": [
+   "issue-26-0662-2026-property-tax-rates",
+   "issue-26-0596-2027-health-premiums"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "lastVerifiedAt": "2026-10-22"
+ },
+ {
+  "id": "meeting-2026-09-30-boc-evening",
+  "title": "Board of Commissioners Special Called Meeting (property tax hearing), September 30, 2026",
+  "meetingType": "board_of_commissioners",
+  "date": "2026-09-30",
+  "startTime": "18:00",
+  "status": "completed",
+  "summary": "Evening special called meeting with a public hearing on the proposed 2026 property tax rate.",
+  "officialPageUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6404&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+  "recordingUrl": "https://fulton.legistar.com/Video.aspx?Mode=Granicus&ID1=483&G=197058BF-F352-4423-BE44-04DFABBD8188&Mode2=Video",
+  "agendaDocumentIds": [
+   "document-2026-09-30-boc-evening-agenda"
+  ],
+  "issueIds": [
+   "issue-26-0662-2026-property-tax-rates"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "lastVerifiedAt": "2026-10-22"
+ },
+ {
+  "id": "meeting-2026-10-07-boc",
+  "title": "Board of Commissioners First Regular Meeting, October 7, 2026",
+  "meetingType": "board_of_commissioners",
+  "date": "2026-10-07",
+  "startTime": "10:00",
+  "status": "completed",
+  "summary": "Regular meeting. The board adopted the 2026 property tax rates, introduced a rewrite of the ethics code, directed work on an AI policy, and held the senior transportation contract.",
+  "officialPageUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6397&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+  "recordingUrl": "https://fulton.legistar.com/Video.aspx?Mode=Granicus&ID1=485&G=197058BF-F352-4423-BE44-04DFABBD8188&Mode2=Video",
+  "agendaDocumentIds": [
+   "document-2026-10-07-boc-agenda"
+  ],
+  "issueIds": [
+   "issue-26-0517-senior-transportation",
+   "issue-26-0662-2026-property-tax-rates",
+   "issue-26-0600-food-resilience",
+   "issue-26-0601-public-comment-policy",
+   "issue-26-0604-voting-abstention-rules",
+   "issue-26-0675-ethics-code",
+   "issue-26-0680-ai-policy",
+   "issue-26-0677-my-justice-portal",
+   "issue-26-0678-private-equity-health-care"
+  ],
+  "dataMode": "curated",
+  "mockOnly": false,
+  "lastVerifiedAt": "2026-10-22"
+ }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "issue-mock-001",
+    "title": "MOCK ONLY: Sample Pedestrian Crossing Review",
+    "category": "transportation",
+    "summary": "MOCK DATA: A fictional example describing a possible pedestrian-safety review. Replace with a verified summary of an actual public record.",
+    "status": "under_consideration",
+    "statusAsOf": "2026-10-12",
+    "meetingIds": [
+      "meeting-mock-001"
+    ],
+    "documentIds": [
+      "document-mock-001"
+    ],
+    "location": {
+      "label": "Demo Map Area A (fictional)",
+      "address": null,
+      "latitude": 34.0757,
+      "longitude": -84.2948,
+      "locationType": "mock_marker",
+      "verified": false
+    },
+    "whyItMayMatter": "MOCK DATA: This explanation exists only to test relevance text and must be replaced with evidence-based wording.",
+    "sourceUrls": [],
+    "dataMode": "mock",
+    "mockOnly": true,
+    "featured": true
+  },
+  {
+    "id": "issue-mock-002",
+    "title": "MOCK ONLY: Sample Public-Space Improvement Proposal",
+    "category": "parks_and_public_spaces",
+    "summary": "MOCK DATA: A fictional public-space proposal used to test issue summaries and status labels.",
+    "status": "proposed",
+    "statusAsOf": "2026-10-12",
+    "meetingIds": [
+      "meeting-mock-001"
+    ],
+    "documentIds": [
+      "document-mock-001",
+      "document-mock-005"
+    ],
+    "location": {
+      "label": "Demo Map Area B (fictional)",
+      "address": null,
+      "latitude": 34.0783,
+      "longitude": -84.2898,
+      "locationType": "mock_marker",
+      "verified": false
+    },
+    "whyItMayMatter": "MOCK DATA: The issue may be used to test citywide display; no real-world impact is asserted.",
+    "sourceUrls": [],
+    "dataMode": "mock",
+    "mockOnly": true,
+    "featured": true
+  },
+  {
+    "id": "issue-mock-003",
+    "title": "MOCK ONLY: Sample Land-Use Application",
+    "category": "development_and_zoning",
+    "summary": "MOCK DATA: A fictional land-use application for testing the issue detail layout; not an actual Alpharetta application.",
+    "status": "proposed",
+    "statusAsOf": "2026-10-15",
+    "meetingIds": [
+      "meeting-mock-002"
+    ],
+    "documentIds": [
+      "document-mock-002"
+    ],
+    "location": {
+      "label": "Demo Map Area C (fictional)",
+      "address": null,
+      "latitude": 34.0718,
+      "longitude": -84.2991,
+      "locationType": "mock_marker",
+      "verified": false
+    },
+    "whyItMayMatter": "MOCK DATA: Example relevance text only. Do not use it to infer actual effects on a property or neighborhood.",
+    "sourceUrls": [],
+    "dataMode": "mock",
+    "mockOnly": true,
+    "featured": true
+  },
+  {
+    "id": "issue-mock-004",
+    "title": "MOCK ONLY: Sample Neighborhood Design Discussion",
+    "category": "community_planning",
+    "summary": "MOCK DATA: A fictional discussion item for testing category filters and related documents.",
+    "status": "unknown",
+    "statusAsOf": null,
+    "meetingIds": [
+      "meeting-mock-002"
+    ],
+    "documentIds": [
+      "document-mock-003"
+    ],
+    "location": null,
+    "whyItMayMatter": "MOCK DATA: Geographic impact is not assigned in this sample record.",
+    "sourceUrls": [],
+    "dataMode": "mock",
+    "mockOnly": true,
+    "featured": false
+  },
+  {
+    "id": "issue-mock-005",
+    "title": "MOCK ONLY: Sample Road Corridor Study",
+    "category": "transportation",
+    "summary": "MOCK DATA: A fictional corridor study used to test map/feed coordination and location relevance.",
+    "status": "proposed",
+    "statusAsOf": "2026-10-20",
+    "meetingIds": [
+      "meeting-mock-003"
+    ],
+    "documentIds": [
+      "document-mock-004"
+    ],
+    "location": {
+      "label": "Demo Map Area D (fictional)",
+      "address": null,
+      "latitude": 34.081,
+      "longitude": -84.3021,
+      "locationType": "mock_marker",
+      "verified": false
+    },
+    "whyItMayMatter": "MOCK DATA: Example of a geographically located issue; no real traffic impact is claimed.",
+    "sourceUrls": [],
+    "dataMode": "mock",
+    "mockOnly": true,
+    "featured": false
+  }
+]

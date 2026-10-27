@@ -1,0 +1,65 @@
+[
+  {
+    "id": "meeting-mock-001",
+    "title": "MOCK ONLY: Sample City Council Meeting",
+    "meetingType": "city_council",
+    "date": "2026-10-12",
+    "startTime": "19:00",
+    "status": "completed",
+    "summary": "MOCK DATA: A fictional council meeting used to test the meeting card and details page. Replace this text with a source-grounded summary.",
+    "officialPageUrl": null,
+    "recordingUrl": null,
+    "agendaDocumentIds": [
+      "document-mock-001"
+    ],
+    "issueIds": [
+      "issue-mock-001",
+      "issue-mock-002"
+    ],
+    "dataMode": "mock",
+    "mockOnly": true,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "meeting-mock-002",
+    "title": "MOCK ONLY: Sample Planning Commission Meeting",
+    "meetingType": "planning_commission",
+    "date": "2026-10-15",
+    "startTime": "18:30",
+    "status": "completed",
+    "summary": "MOCK DATA: A fictional planning meeting used to test agenda grouping and related issue navigation.",
+    "officialPageUrl": null,
+    "recordingUrl": null,
+    "agendaDocumentIds": [
+      "document-mock-002",
+      "document-mock-003"
+    ],
+    "issueIds": [
+      "issue-mock-003",
+      "issue-mock-004"
+    ],
+    "dataMode": "mock",
+    "mockOnly": true,
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "meeting-mock-003",
+    "title": "MOCK ONLY: Sample Transportation Update",
+    "meetingType": "other_public_meeting",
+    "date": "2026-10-27",
+    "startTime": null,
+    "status": "scheduled",
+    "summary": "MOCK DATA: A fictional upcoming public meeting to test the upcoming-meetings layout.",
+    "officialPageUrl": null,
+    "recordingUrl": null,
+    "agendaDocumentIds": [
+      "document-mock-004"
+    ],
+    "issueIds": [
+      "issue-mock-005"
+    ],
+    "dataMode": "mock",
+    "mockOnly": true,
+    "lastVerifiedAt": null
+  }
+]

@@ -1,0 +1,296 @@
+[
+ {
+  "id": "document-2026-08-03-boc-agenda",
+  "title": "Board of Commissioners Agenda, August 3, 2026",
+  "documentType": "agenda",
+  "meetingId": "meeting-2026-08-03-boc",
+  "issueIds": [
+   "issue-26-0430-tsplost-referendum"
+  ],
+  "publishedDate": "2026-07-29",
+  "url": "https://fulton.legistar1.com/fulton/meetings/2026/8/6395_A_Board_of_Commissioners_26-08-03_Special_Called_Meeting.pdf",
+  "description": "Official agenda as published before the meeting. Results of each item are in the item records on the county’s Legistar site.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-2026-08-05-boc-agenda",
+  "title": "Board of Commissioners Agenda, August 5, 2026",
+  "documentType": "agenda",
+  "meetingId": "meeting-2026-08-05-boc",
+  "issueIds": [
+   "issue-26-0461-data-center-incentives",
+   "issue-26-0460-budget-commission",
+   "issue-26-0451-board-of-health-fees",
+   "issue-26-0454-election-mail-contract"
+  ],
+  "publishedDate": "2026-07-31",
+  "url": "https://fulton.legistar1.com/fulton/meetings/2026/8/6391_A_Board_of_Commissioners_26-08-05_First_Regular_Meeting.pdf",
+  "description": "Official agenda as published before the meeting. Results of each item are in the item records on the county’s Legistar site.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-2026-08-19-boc-agenda",
+  "title": "Board of Commissioners Agenda, August 19, 2026",
+  "documentType": "agenda",
+  "meetingId": "meeting-2026-08-19-boc",
+  "issueIds": [
+   "issue-26-0515-st-mark-ame",
+   "issue-26-0517-senior-transportation"
+  ],
+  "publishedDate": "2026-08-14",
+  "url": "https://fulton.legistar1.com/fulton/meetings/2026/8/6392_A_Board_of_Commissioners_26-08-19_Second_Regular_Meeting.pdf",
+  "description": "Official agenda as published before the meeting. Results of each item are in the item records on the county’s Legistar site.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-2026-09-02-boc-agenda",
+  "title": "Board of Commissioners Agenda, September 2, 2026",
+  "documentType": "agenda",
+  "meetingId": "meeting-2026-09-02-boc",
+  "issueIds": [
+   "issue-26-0538-jail-elevators",
+   "issue-26-0546-roswell-water-main",
+   "issue-26-0547-milton-water-main",
+   "issue-26-0549-thurmond-homes",
+   "issue-26-0550-brawley-apartments",
+   "issue-26-0551-paines-apartments"
+  ],
+  "publishedDate": "2026-08-28",
+  "url": "https://fulton.legistar1.com/fulton/meetings/2026/9/6394_A_Board_of_Commissioners_26-09-02_First_Regular_Meeting.pdf",
+  "description": "Official agenda as published before the meeting. Results of each item are in the item records on the county’s Legistar site.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-2026-09-16-boc-agenda",
+  "title": "Board of Commissioners Agenda, September 16, 2026",
+  "documentType": "agenda",
+  "meetingId": "meeting-2026-09-16-boc",
+  "issueIds": [
+   "issue-26-0603-oliver-apartments",
+   "issue-26-0662-2026-property-tax-rates",
+   "issue-26-0596-2027-health-premiums",
+   "issue-26-0606-kratom",
+   "issue-26-0600-food-resilience",
+   "issue-26-0601-public-comment-policy",
+   "issue-26-0604-voting-abstention-rules"
+  ],
+  "publishedDate": "2026-09-11",
+  "url": "https://fulton.legistar1.com/fulton/meetings/2026/9/6396_A_Board_of_Commissioners_26-09-16_Second_Regular_Meeting.pdf",
+  "description": "Official agenda as published before the meeting. Results of each item are in the item records on the county’s Legistar site.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-2026-09-30-boc-agenda",
+  "title": "Board of Commissioners Agenda, September 30, 2026",
+  "documentType": "agenda",
+  "meetingId": "meeting-2026-09-30-boc",
+  "issueIds": [
+   "issue-26-0662-2026-property-tax-rates",
+   "issue-26-0596-2027-health-premiums"
+  ],
+  "publishedDate": "2026-09-30",
+  "url": "https://fulton.legistar1.com/fulton/meetings/2026/9/6403_A_Board_of_Commissioners_26-09-30_Special_Called_Meeting.pdf",
+  "description": "Official agenda as published before the meeting. Results of each item are in the item records on the county’s Legistar site.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-2026-09-30-boc-evening-agenda",
+  "title": "Board of Commissioners Agenda, September 30, 2026 (evening)",
+  "documentType": "agenda",
+  "meetingId": "meeting-2026-09-30-boc-evening",
+  "issueIds": [
+   "issue-26-0662-2026-property-tax-rates"
+  ],
+  "publishedDate": "2026-09-30",
+  "url": "https://fulton.legistar1.com/fulton/meetings/2026/9/6404_A_Board_of_Commissioners_26-09-30_Special_Called_Meeting.pdf",
+  "description": "Official agenda as published before the meeting. Results of each item are in the item records on the county’s Legistar site.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-2026-10-07-boc-agenda",
+  "title": "Board of Commissioners Agenda, October 7, 2026",
+  "documentType": "agenda",
+  "meetingId": "meeting-2026-10-07-boc",
+  "issueIds": [
+   "issue-26-0517-senior-transportation",
+   "issue-26-0662-2026-property-tax-rates",
+   "issue-26-0600-food-resilience",
+   "issue-26-0601-public-comment-policy",
+   "issue-26-0604-voting-abstention-rules",
+   "issue-26-0675-ethics-code",
+   "issue-26-0680-ai-policy",
+   "issue-26-0677-my-justice-portal",
+   "issue-26-0678-private-equity-health-care"
+  ],
+  "publishedDate": "2026-10-02",
+  "url": "https://fulton.legistar1.com/fulton/meetings/2026/10/6397_A_Board_of_Commissioners_26-10-07_First_Regular_Meeting.pdf",
+  "description": "Official agenda as published before the meeting. Results of each item are in the item records on the county’s Legistar site.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0430-tsplost-resolution",
+  "title": "TSPLOST referendum resolution (26-0430)",
+  "documentType": "resolution",
+  "meetingId": "meeting-2026-08-03-boc",
+  "issueIds": [
+   "issue-26-0430-tsplost-referendum"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/30a28952-e6df-446f-8c13-0bcb7dbc224d.pdf",
+  "description": "Resolution asking for a November 3, 2026 referendum on a 0.75 percent transportation sales tax for five years starting April 1, 2027, estimated to raise $762,393,688.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0461-data-center-resolution",
+  "title": "Resolution on data center tax incentives (26-0461)",
+  "documentType": "resolution",
+  "meetingId": "meeting-2026-08-05-boc",
+  "issueIds": [
+   "issue-26-0461-data-center-incentives"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/28fa0014-70f3-449a-aaf4-c372ccc2d702.pdf",
+  "description": "Resolution opposing tax abatements or other incentives from development authorities in Fulton County for data center projects.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0517-senior-transportation-briefing",
+  "title": "Senior Transportation Services Assessment briefing (26-0517)",
+  "documentType": "presentation",
+  "meetingId": "meeting-2026-08-19-boc",
+  "issueIds": [
+   "issue-26-0517-senior-transportation"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/f139fafc-ba8a-40d5-8b28-4c6bb59d1d0b.pdf",
+  "description": "Briefing on the county’s senior transportation program, presented to the board on August 19, 2026.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0538-jail-elevator-recommendation",
+  "title": "Jail elevator contract: evaluation committee recommendation (26-0538)",
+  "documentType": "supporting_document",
+  "meetingId": "meeting-2026-09-02-boc",
+  "issueIds": [
+   "issue-26-0538-jail-elevators"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/e49f1454-2853-433b-92a6-758e20999825.pdf",
+  "description": "Evaluation committee letter recommending TK Elevator Corporation for the jail elevator modernization contract.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0551-paines-fact-sheet",
+  "title": "383 Paines Avenue housing fact sheet (26-0551)",
+  "documentType": "fact_sheet",
+  "meetingId": "meeting-2026-09-02-boc",
+  "issueIds": [
+   "issue-26-0551-paines-apartments"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/04e65f7b-22f4-4c28-a94a-25e604994ec9.pdf",
+  "description": "Fact sheet for a 25-unit affordable apartment development at 383 Paines Avenue NW in English Avenue.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0603-oliver-fact-sheet",
+  "title": "404 Oliver Street housing fact sheet (26-0603)",
+  "documentType": "fact_sheet",
+  "meetingId": "meeting-2026-09-16-boc",
+  "issueIds": [
+   "issue-26-0603-oliver-apartments"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/af6c62ca-efc2-45e3-bc30-d2995e357d2b.pdf",
+  "description": "Fact sheet for a 54-unit affordable apartment development at 404 Oliver Street NW in English Avenue.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0596-medical-premiums",
+  "title": "2027 vs 2026 proposed medical premium comparison (26-0596)",
+  "documentType": "supporting_document",
+  "meetingId": "meeting-2026-09-16-boc",
+  "issueIds": [
+   "issue-26-0596-2027-health-premiums"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/cecf4c2b-6a54-410d-afa9-2d9f9c4248d6.pdf",
+  "description": "Comparison of proposed 2027 and current 2026 medical premiums for county employee health plans.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0601-public-comment-policy",
+  "title": "Proposed public comment policy (26-0601)",
+  "documentType": "draft_policy",
+  "meetingId": "meeting-2026-10-07-boc",
+  "issueIds": [
+   "issue-26-0601-public-comment-policy"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/33fdfcba-9c65-4638-a7e7-fe97647f2695.pdf",
+  "description": "Draft amended policy that would limit oral public comment at board meetings to topics related to items on the agenda. The motion to approve it failed on October 7, 2026.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0662-millage-presentation",
+  "title": "2026 millage rate presentation (26-0662)",
+  "documentType": "presentation",
+  "meetingId": "meeting-2026-10-07-boc",
+  "issueIds": [
+   "issue-26-0662-2026-property-tax-rates"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/78c47864-180c-469b-b722-761670082c66.pdf",
+  "description": "Finance presentation on the 2026 property tax (millage) rates, shown at the October 7, 2026 meeting.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ },
+ {
+  "id": "document-26-0675-ethics-resolution",
+  "title": "Resolution introducing a revised Code of Ethics (26-0675)",
+  "documentType": "resolution",
+  "meetingId": "meeting-2026-10-07-boc",
+  "issueIds": [
+   "issue-26-0675-ethics-code"
+  ],
+  "publishedDate": null,
+  "url": "https://fulton.legistar1.com/fulton/attachments/e4a82884-b70f-4eb7-9f55-d15a65539105.pdf",
+  "description": "Resolution introducing a revised county ethics code that would abolish the Board of Ethics and have independent officers screen and decide complaints.",
+  "sourceName": "Fulton County Legistar",
+  "dataMode": "curated",
+  "mockOnly": false
+ }
+]

@@ -1,0 +1,5714 @@
+{
+ "state": {
+  "id": "georgia",
+  "name": "Georgia",
+  "fips": "13"
+ },
+ "source": {
+  "name": "U.S. Census Bureau, 2020 FIPS codes for counties and places (Georgia)",
+  "urls": [
+   "https://www2.census.gov/geo/docs/reference/codes2020/cou/st13_ga_cou2020.txt",
+   "https://www2.census.gov/geo/docs/reference/codes2020/place/st13_ga_place2020.txt"
+  ],
+  "note": "Incorporated places as of 2020. Cities incorporated or dissolved since 2020 are not reflected yet."
+ },
+ "counties": [
+  {
+   "id": "appling",
+   "name": "Appling County",
+   "fips": "13001"
+  },
+  {
+   "id": "atkinson",
+   "name": "Atkinson County",
+   "fips": "13003"
+  },
+  {
+   "id": "bacon",
+   "name": "Bacon County",
+   "fips": "13005"
+  },
+  {
+   "id": "baker",
+   "name": "Baker County",
+   "fips": "13007"
+  },
+  {
+   "id": "baldwin",
+   "name": "Baldwin County",
+   "fips": "13009"
+  },
+  {
+   "id": "banks",
+   "name": "Banks County",
+   "fips": "13011"
+  },
+  {
+   "id": "barrow",
+   "name": "Barrow County",
+   "fips": "13013"
+  },
+  {
+   "id": "bartow",
+   "name": "Bartow County",
+   "fips": "13015"
+  },
+  {
+   "id": "ben-hill",
+   "name": "Ben Hill County",
+   "fips": "13017"
+  },
+  {
+   "id": "berrien",
+   "name": "Berrien County",
+   "fips": "13019"
+  },
+  {
+   "id": "bibb",
+   "name": "Bibb County",
+   "fips": "13021"
+  },
+  {
+   "id": "bleckley",
+   "name": "Bleckley County",
+   "fips": "13023"
+  },
+  {
+   "id": "brantley",
+   "name": "Brantley County",
+   "fips": "13025"
+  },
+  {
+   "id": "brooks",
+   "name": "Brooks County",
+   "fips": "13027"
+  },
+  {
+   "id": "bryan",
+   "name": "Bryan County",
+   "fips": "13029"
+  },
+  {
+   "id": "bulloch",
+   "name": "Bulloch County",
+   "fips": "13031"
+  },
+  {
+   "id": "burke",
+   "name": "Burke County",
+   "fips": "13033"
+  },
+  {
+   "id": "butts",
+   "name": "Butts County",
+   "fips": "13035"
+  },
+  {
+   "id": "calhoun",
+   "name": "Calhoun County",
+   "fips": "13037"
+  },
+  {
+   "id": "camden",
+   "name": "Camden County",
+   "fips": "13039"
+  },
+  {
+   "id": "candler",
+   "name": "Candler County",
+   "fips": "13043"
+  },
+  {
+   "id": "carroll",
+   "name": "Carroll County",
+   "fips": "13045"
+  },
+  {
+   "id": "catoosa",
+   "name": "Catoosa County",
+   "fips": "13047"
+  },
+  {
+   "id": "charlton",
+   "name": "Charlton County",
+   "fips": "13049"
+  },
+  {
+   "id": "chatham",
+   "name": "Chatham County",
+   "fips": "13051"
+  },
+  {
+   "id": "chattahoochee",
+   "name": "Chattahoochee County",
+   "fips": "13053"
+  },
+  {
+   "id": "chattooga",
+   "name": "Chattooga County",
+   "fips": "13055"
+  },
+  {
+   "id": "cherokee",
+   "name": "Cherokee County",
+   "fips": "13057"
+  },
+  {
+   "id": "clarke",
+   "name": "Clarke County",
+   "fips": "13059"
+  },
+  {
+   "id": "clay",
+   "name": "Clay County",
+   "fips": "13061"
+  },
+  {
+   "id": "clayton",
+   "name": "Clayton County",
+   "fips": "13063"
+  },
+  {
+   "id": "clinch",
+   "name": "Clinch County",
+   "fips": "13065"
+  },
+  {
+   "id": "cobb",
+   "name": "Cobb County",
+   "fips": "13067"
+  },
+  {
+   "id": "coffee",
+   "name": "Coffee County",
+   "fips": "13069"
+  },
+  {
+   "id": "colquitt",
+   "name": "Colquitt County",
+   "fips": "13071"
+  },
+  {
+   "id": "columbia",
+   "name": "Columbia County",
+   "fips": "13073"
+  },
+  {
+   "id": "cook",
+   "name": "Cook County",
+   "fips": "13075"
+  },
+  {
+   "id": "coweta",
+   "name": "Coweta County",
+   "fips": "13077"
+  },
+  {
+   "id": "crawford",
+   "name": "Crawford County",
+   "fips": "13079"
+  },
+  {
+   "id": "crisp",
+   "name": "Crisp County",
+   "fips": "13081"
+  },
+  {
+   "id": "dade",
+   "name": "Dade County",
+   "fips": "13083"
+  },
+  {
+   "id": "dawson",
+   "name": "Dawson County",
+   "fips": "13085"
+  },
+  {
+   "id": "decatur",
+   "name": "Decatur County",
+   "fips": "13087"
+  },
+  {
+   "id": "dekalb",
+   "name": "DeKalb County",
+   "fips": "13089"
+  },
+  {
+   "id": "dodge",
+   "name": "Dodge County",
+   "fips": "13091"
+  },
+  {
+   "id": "dooly",
+   "name": "Dooly County",
+   "fips": "13093"
+  },
+  {
+   "id": "dougherty",
+   "name": "Dougherty County",
+   "fips": "13095"
+  },
+  {
+   "id": "douglas",
+   "name": "Douglas County",
+   "fips": "13097"
+  },
+  {
+   "id": "early",
+   "name": "Early County",
+   "fips": "13099"
+  },
+  {
+   "id": "echols",
+   "name": "Echols County",
+   "fips": "13101"
+  },
+  {
+   "id": "effingham",
+   "name": "Effingham County",
+   "fips": "13103"
+  },
+  {
+   "id": "elbert",
+   "name": "Elbert County",
+   "fips": "13105"
+  },
+  {
+   "id": "emanuel",
+   "name": "Emanuel County",
+   "fips": "13107"
+  },
+  {
+   "id": "evans",
+   "name": "Evans County",
+   "fips": "13109"
+  },
+  {
+   "id": "fannin",
+   "name": "Fannin County",
+   "fips": "13111"
+  },
+  {
+   "id": "fayette",
+   "name": "Fayette County",
+   "fips": "13113"
+  },
+  {
+   "id": "floyd",
+   "name": "Floyd County",
+   "fips": "13115"
+  },
+  {
+   "id": "forsyth",
+   "name": "Forsyth County",
+   "fips": "13117"
+  },
+  {
+   "id": "franklin",
+   "name": "Franklin County",
+   "fips": "13119"
+  },
+  {
+   "id": "fulton",
+   "name": "Fulton County",
+   "fips": "13121"
+  },
+  {
+   "id": "gilmer",
+   "name": "Gilmer County",
+   "fips": "13123"
+  },
+  {
+   "id": "glascock",
+   "name": "Glascock County",
+   "fips": "13125"
+  },
+  {
+   "id": "glynn",
+   "name": "Glynn County",
+   "fips": "13127"
+  },
+  {
+   "id": "gordon",
+   "name": "Gordon County",
+   "fips": "13129"
+  },
+  {
+   "id": "grady",
+   "name": "Grady County",
+   "fips": "13131"
+  },
+  {
+   "id": "greene",
+   "name": "Greene County",
+   "fips": "13133"
+  },
+  {
+   "id": "gwinnett",
+   "name": "Gwinnett County",
+   "fips": "13135"
+  },
+  {
+   "id": "habersham",
+   "name": "Habersham County",
+   "fips": "13137"
+  },
+  {
+   "id": "hall",
+   "name": "Hall County",
+   "fips": "13139"
+  },
+  {
+   "id": "hancock",
+   "name": "Hancock County",
+   "fips": "13141"
+  },
+  {
+   "id": "haralson",
+   "name": "Haralson County",
+   "fips": "13143"
+  },
+  {
+   "id": "harris",
+   "name": "Harris County",
+   "fips": "13145"
+  },
+  {
+   "id": "hart",
+   "name": "Hart County",
+   "fips": "13147"
+  },
+  {
+   "id": "heard",
+   "name": "Heard County",
+   "fips": "13149"
+  },
+  {
+   "id": "henry",
+   "name": "Henry County",
+   "fips": "13151"
+  },
+  {
+   "id": "houston",
+   "name": "Houston County",
+   "fips": "13153"
+  },
+  {
+   "id": "irwin",
+   "name": "Irwin County",
+   "fips": "13155"
+  },
+  {
+   "id": "jackson",
+   "name": "Jackson County",
+   "fips": "13157"
+  },
+  {
+   "id": "jasper",
+   "name": "Jasper County",
+   "fips": "13159"
+  },
+  {
+   "id": "jeff-davis",
+   "name": "Jeff Davis County",
+   "fips": "13161"
+  },
+  {
+   "id": "jefferson",
+   "name": "Jefferson County",
+   "fips": "13163"
+  },
+  {
+   "id": "jenkins",
+   "name": "Jenkins County",
+   "fips": "13165"
+  },
+  {
+   "id": "johnson",
+   "name": "Johnson County",
+   "fips": "13167"
+  },
+  {
+   "id": "jones",
+   "name": "Jones County",
+   "fips": "13169"
+  },
+  {
+   "id": "lamar",
+   "name": "Lamar County",
+   "fips": "13171"
+  },
+  {
+   "id": "lanier",
+   "name": "Lanier County",
+   "fips": "13173"
+  },
+  {
+   "id": "laurens",
+   "name": "Laurens County",
+   "fips": "13175"
+  },
+  {
+   "id": "lee",
+   "name": "Lee County",
+   "fips": "13177"
+  },
+  {
+   "id": "liberty",
+   "name": "Liberty County",
+   "fips": "13179"
+  },
+  {
+   "id": "lincoln",
+   "name": "Lincoln County",
+   "fips": "13181"
+  },
+  {
+   "id": "long",
+   "name": "Long County",
+   "fips": "13183"
+  },
+  {
+   "id": "lowndes",
+   "name": "Lowndes County",
+   "fips": "13185"
+  },
+  {
+   "id": "lumpkin",
+   "name": "Lumpkin County",
+   "fips": "13187"
+  },
+  {
+   "id": "macon",
+   "name": "Macon County",
+   "fips": "13193"
+  },
+  {
+   "id": "madison",
+   "name": "Madison County",
+   "fips": "13195"
+  },
+  {
+   "id": "marion",
+   "name": "Marion County",
+   "fips": "13197"
+  },
+  {
+   "id": "mcduffie",
+   "name": "McDuffie County",
+   "fips": "13189"
+  },
+  {
+   "id": "mcintosh",
+   "name": "McIntosh County",
+   "fips": "13191"
+  },
+  {
+   "id": "meriwether",
+   "name": "Meriwether County",
+   "fips": "13199"
+  },
+  {
+   "id": "miller",
+   "name": "Miller County",
+   "fips": "13201"
+  },
+  {
+   "id": "mitchell",
+   "name": "Mitchell County",
+   "fips": "13205"
+  },
+  {
+   "id": "monroe",
+   "name": "Monroe County",
+   "fips": "13207"
+  },
+  {
+   "id": "montgomery",
+   "name": "Montgomery County",
+   "fips": "13209"
+  },
+  {
+   "id": "morgan",
+   "name": "Morgan County",
+   "fips": "13211"
+  },
+  {
+   "id": "murray",
+   "name": "Murray County",
+   "fips": "13213"
+  },
+  {
+   "id": "muscogee",
+   "name": "Muscogee County",
+   "fips": "13215"
+  },
+  {
+   "id": "newton",
+   "name": "Newton County",
+   "fips": "13217"
+  },
+  {
+   "id": "oconee",
+   "name": "Oconee County",
+   "fips": "13219"
+  },
+  {
+   "id": "oglethorpe",
+   "name": "Oglethorpe County",
+   "fips": "13221"
+  },
+  {
+   "id": "paulding",
+   "name": "Paulding County",
+   "fips": "13223"
+  },
+  {
+   "id": "peach",
+   "name": "Peach County",
+   "fips": "13225"
+  },
+  {
+   "id": "pickens",
+   "name": "Pickens County",
+   "fips": "13227"
+  },
+  {
+   "id": "pierce",
+   "name": "Pierce County",
+   "fips": "13229"
+  },
+  {
+   "id": "pike",
+   "name": "Pike County",
+   "fips": "13231"
+  },
+  {
+   "id": "polk",
+   "name": "Polk County",
+   "fips": "13233"
+  },
+  {
+   "id": "pulaski",
+   "name": "Pulaski County",
+   "fips": "13235"
+  },
+  {
+   "id": "putnam",
+   "name": "Putnam County",
+   "fips": "13237"
+  },
+  {
+   "id": "quitman",
+   "name": "Quitman County",
+   "fips": "13239"
+  },
+  {
+   "id": "rabun",
+   "name": "Rabun County",
+   "fips": "13241"
+  },
+  {
+   "id": "randolph",
+   "name": "Randolph County",
+   "fips": "13243"
+  },
+  {
+   "id": "richmond",
+   "name": "Richmond County",
+   "fips": "13245"
+  },
+  {
+   "id": "rockdale",
+   "name": "Rockdale County",
+   "fips": "13247"
+  },
+  {
+   "id": "schley",
+   "name": "Schley County",
+   "fips": "13249"
+  },
+  {
+   "id": "screven",
+   "name": "Screven County",
+   "fips": "13251"
+  },
+  {
+   "id": "seminole",
+   "name": "Seminole County",
+   "fips": "13253"
+  },
+  {
+   "id": "spalding",
+   "name": "Spalding County",
+   "fips": "13255"
+  },
+  {
+   "id": "stephens",
+   "name": "Stephens County",
+   "fips": "13257"
+  },
+  {
+   "id": "stewart",
+   "name": "Stewart County",
+   "fips": "13259"
+  },
+  {
+   "id": "sumter",
+   "name": "Sumter County",
+   "fips": "13261"
+  },
+  {
+   "id": "talbot",
+   "name": "Talbot County",
+   "fips": "13263"
+  },
+  {
+   "id": "taliaferro",
+   "name": "Taliaferro County",
+   "fips": "13265"
+  },
+  {
+   "id": "tattnall",
+   "name": "Tattnall County",
+   "fips": "13267"
+  },
+  {
+   "id": "taylor",
+   "name": "Taylor County",
+   "fips": "13269"
+  },
+  {
+   "id": "telfair",
+   "name": "Telfair County",
+   "fips": "13271"
+  },
+  {
+   "id": "terrell",
+   "name": "Terrell County",
+   "fips": "13273"
+  },
+  {
+   "id": "thomas",
+   "name": "Thomas County",
+   "fips": "13275"
+  },
+  {
+   "id": "tift",
+   "name": "Tift County",
+   "fips": "13277"
+  },
+  {
+   "id": "toombs",
+   "name": "Toombs County",
+   "fips": "13279"
+  },
+  {
+   "id": "towns",
+   "name": "Towns County",
+   "fips": "13281"
+  },
+  {
+   "id": "treutlen",
+   "name": "Treutlen County",
+   "fips": "13283"
+  },
+  {
+   "id": "troup",
+   "name": "Troup County",
+   "fips": "13285"
+  },
+  {
+   "id": "turner",
+   "name": "Turner County",
+   "fips": "13287"
+  },
+  {
+   "id": "twiggs",
+   "name": "Twiggs County",
+   "fips": "13289"
+  },
+  {
+   "id": "union",
+   "name": "Union County",
+   "fips": "13291"
+  },
+  {
+   "id": "upson",
+   "name": "Upson County",
+   "fips": "13293"
+  },
+  {
+   "id": "walker",
+   "name": "Walker County",
+   "fips": "13295"
+  },
+  {
+   "id": "walton",
+   "name": "Walton County",
+   "fips": "13297"
+  },
+  {
+   "id": "ware",
+   "name": "Ware County",
+   "fips": "13299"
+  },
+  {
+   "id": "warren",
+   "name": "Warren County",
+   "fips": "13301"
+  },
+  {
+   "id": "washington",
+   "name": "Washington County",
+   "fips": "13303"
+  },
+  {
+   "id": "wayne",
+   "name": "Wayne County",
+   "fips": "13305"
+  },
+  {
+   "id": "webster",
+   "name": "Webster County",
+   "fips": "13307"
+  },
+  {
+   "id": "wheeler",
+   "name": "Wheeler County",
+   "fips": "13309"
+  },
+  {
+   "id": "white",
+   "name": "White County",
+   "fips": "13311"
+  },
+  {
+   "id": "whitfield",
+   "name": "Whitfield County",
+   "fips": "13313"
+  },
+  {
+   "id": "wilcox",
+   "name": "Wilcox County",
+   "fips": "13315"
+  },
+  {
+   "id": "wilkes",
+   "name": "Wilkes County",
+   "fips": "13317"
+  },
+  {
+   "id": "wilkinson",
+   "name": "Wilkinson County",
+   "fips": "13319"
+  },
+  {
+   "id": "worth",
+   "name": "Worth County",
+   "fips": "13321"
+  }
+ ],
+ "municipalities": [
+  {
+   "id": "abbeville",
+   "name": "Abbeville",
+   "kind": "city",
+   "geoid": "1300184",
+   "countyIds": [
+    "wilcox"
+   ]
+  },
+  {
+   "id": "acworth",
+   "name": "Acworth",
+   "kind": "city",
+   "geoid": "1300408",
+   "countyIds": [
+    "cobb"
+   ]
+  },
+  {
+   "id": "adairsville",
+   "name": "Adairsville",
+   "kind": "city",
+   "geoid": "1300436",
+   "countyIds": [
+    "bartow"
+   ]
+  },
+  {
+   "id": "adel",
+   "name": "Adel",
+   "kind": "city",
+   "geoid": "1300576",
+   "countyIds": [
+    "cook"
+   ]
+  },
+  {
+   "id": "adrian",
+   "name": "Adrian",
+   "kind": "city",
+   "geoid": "1300660",
+   "countyIds": [
+    "emanuel",
+    "johnson"
+   ]
+  },
+  {
+   "id": "ailey",
+   "name": "Ailey",
+   "kind": "city",
+   "geoid": "1300828",
+   "countyIds": [
+    "montgomery"
+   ]
+  },
+  {
+   "id": "alamo",
+   "name": "Alamo",
+   "kind": "town",
+   "geoid": "1300996",
+   "countyIds": [
+    "wheeler"
+   ]
+  },
+  {
+   "id": "alapaha",
+   "name": "Alapaha",
+   "kind": "town",
+   "geoid": "1301024",
+   "countyIds": [
+    "berrien"
+   ]
+  },
+  {
+   "id": "albany",
+   "name": "Albany",
+   "kind": "city",
+   "geoid": "1301052",
+   "countyIds": [
+    "dougherty"
+   ]
+  },
+  {
+   "id": "aldora",
+   "name": "Aldora",
+   "kind": "town",
+   "geoid": "1301248",
+   "countyIds": [
+    "lamar"
+   ]
+  },
+  {
+   "id": "allenhurst",
+   "name": "Allenhurst",
+   "kind": "city",
+   "geoid": "1301472",
+   "countyIds": [
+    "liberty"
+   ]
+  },
+  {
+   "id": "allentown",
+   "name": "Allentown",
+   "kind": "city",
+   "geoid": "1301500",
+   "countyIds": [
+    "bleckley",
+    "laurens",
+    "twiggs",
+    "wilkinson"
+   ]
+  },
+  {
+   "id": "alma",
+   "name": "Alma",
+   "kind": "city",
+   "geoid": "1301612",
+   "countyIds": [
+    "bacon"
+   ]
+  },
+  {
+   "id": "alpharetta",
+   "name": "Alpharetta",
+   "kind": "city",
+   "geoid": "1301696",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "alston",
+   "name": "Alston",
+   "kind": "town",
+   "geoid": "1301808",
+   "countyIds": [
+    "montgomery"
+   ]
+  },
+  {
+   "id": "alto",
+   "name": "Alto",
+   "kind": "town",
+   "geoid": "1301948",
+   "countyIds": [
+    "banks",
+    "habersham"
+   ]
+  },
+  {
+   "id": "ambrose",
+   "name": "Ambrose",
+   "kind": "city",
+   "geoid": "1302060",
+   "countyIds": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "americus",
+   "name": "Americus",
+   "kind": "city",
+   "geoid": "1302116",
+   "countyIds": [
+    "sumter"
+   ]
+  },
+  {
+   "id": "andersonville",
+   "name": "Andersonville",
+   "kind": "city",
+   "geoid": "1302256",
+   "countyIds": [
+    "sumter"
+   ]
+  },
+  {
+   "id": "arabi",
+   "name": "Arabi",
+   "kind": "town",
+   "geoid": "1302564",
+   "countyIds": [
+    "crisp"
+   ]
+  },
+  {
+   "id": "aragon",
+   "name": "Aragon",
+   "kind": "city",
+   "geoid": "1302592",
+   "countyIds": [
+    "polk"
+   ]
+  },
+  {
+   "id": "arcade",
+   "name": "Arcade",
+   "kind": "city",
+   "geoid": "1302648",
+   "countyIds": [
+    "jackson"
+   ]
+  },
+  {
+   "id": "argyle",
+   "name": "Argyle",
+   "kind": "town",
+   "geoid": "1302844",
+   "countyIds": [
+    "clinch"
+   ]
+  },
+  {
+   "id": "arlington",
+   "name": "Arlington",
+   "kind": "city",
+   "geoid": "1302928",
+   "countyIds": [
+    "calhoun",
+    "early"
+   ]
+  },
+  {
+   "id": "arnoldsville",
+   "name": "Arnoldsville",
+   "kind": "city",
+   "geoid": "1303124",
+   "countyIds": [
+    "oglethorpe"
+   ]
+  },
+  {
+   "id": "ashburn",
+   "name": "Ashburn",
+   "kind": "city",
+   "geoid": "1303236",
+   "countyIds": [
+    "turner"
+   ]
+  },
+  {
+   "id": "athens-clarke-county-unified-government",
+   "name": "Athens-Clarke County unified government",
+   "kind": "consolidated government",
+   "geoid": "1303440",
+   "countyIds": [
+    "clarke"
+   ]
+  },
+  {
+   "id": "atlanta",
+   "name": "Atlanta",
+   "kind": "city",
+   "geoid": "1304000",
+   "countyIds": [
+    "dekalb",
+    "fulton"
+   ]
+  },
+  {
+   "id": "attapulgus",
+   "name": "Attapulgus",
+   "kind": "city",
+   "geoid": "1304084",
+   "countyIds": [
+    "decatur"
+   ]
+  },
+  {
+   "id": "auburn",
+   "name": "Auburn",
+   "kind": "city",
+   "geoid": "1304140",
+   "countyIds": [
+    "barrow",
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "augusta-richmond-county-consolidated-government",
+   "name": "Augusta-Richmond County consolidated government",
+   "kind": "consolidated government",
+   "geoid": "1304204",
+   "countyIds": [
+    "richmond"
+   ]
+  },
+  {
+   "id": "austell",
+   "name": "Austell",
+   "kind": "city",
+   "geoid": "1304252",
+   "countyIds": [
+    "cobb",
+    "douglas"
+   ]
+  },
+  {
+   "id": "avalon",
+   "name": "Avalon",
+   "kind": "town",
+   "geoid": "1304392",
+   "countyIds": [
+    "stephens"
+   ]
+  },
+  {
+   "id": "avera",
+   "name": "Avera",
+   "kind": "city",
+   "geoid": "1304448",
+   "countyIds": [
+    "jefferson"
+   ]
+  },
+  {
+   "id": "avondale-estates",
+   "name": "Avondale Estates",
+   "kind": "city",
+   "geoid": "1304644",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "baconton",
+   "name": "Baconton",
+   "kind": "city",
+   "geoid": "1304840",
+   "countyIds": [
+    "mitchell"
+   ]
+  },
+  {
+   "id": "bainbridge",
+   "name": "Bainbridge",
+   "kind": "city",
+   "geoid": "1304896",
+   "countyIds": [
+    "decatur"
+   ]
+  },
+  {
+   "id": "baldwin",
+   "name": "Baldwin",
+   "kind": "city",
+   "geoid": "1304980",
+   "countyIds": [
+    "banks",
+    "habersham"
+   ]
+  },
+  {
+   "id": "ball-ground",
+   "name": "Ball Ground",
+   "kind": "city",
+   "geoid": "1305036",
+   "countyIds": [
+    "cherokee"
+   ]
+  },
+  {
+   "id": "barnesville",
+   "name": "Barnesville",
+   "kind": "city",
+   "geoid": "1305344",
+   "countyIds": [
+    "lamar"
+   ]
+  },
+  {
+   "id": "bartow",
+   "name": "Bartow",
+   "kind": "town",
+   "geoid": "1305680",
+   "countyIds": [
+    "jefferson"
+   ]
+  },
+  {
+   "id": "barwick",
+   "name": "Barwick",
+   "kind": "city",
+   "geoid": "1305708",
+   "countyIds": [
+    "brooks",
+    "thomas"
+   ]
+  },
+  {
+   "id": "baxley",
+   "name": "Baxley",
+   "kind": "city",
+   "geoid": "1306016",
+   "countyIds": [
+    "appling"
+   ]
+  },
+  {
+   "id": "bellville",
+   "name": "Bellville",
+   "kind": "city",
+   "geoid": "1306688",
+   "countyIds": [
+    "evans"
+   ]
+  },
+  {
+   "id": "berkeley-lake",
+   "name": "Berkeley Lake",
+   "kind": "city",
+   "geoid": "1307248",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "kind": "city",
+   "geoid": "1307304",
+   "countyIds": [
+    "colquitt"
+   ]
+  },
+  {
+   "id": "bethlehem",
+   "name": "Bethlehem",
+   "kind": "town",
+   "geoid": "1307612",
+   "countyIds": [
+    "barrow"
+   ]
+  },
+  {
+   "id": "between",
+   "name": "Between",
+   "kind": "town",
+   "geoid": "1307640",
+   "countyIds": [
+    "walton"
+   ]
+  },
+  {
+   "id": "bishop",
+   "name": "Bishop",
+   "kind": "town",
+   "geoid": "1308200",
+   "countyIds": [
+    "oconee"
+   ]
+  },
+  {
+   "id": "blackshear",
+   "name": "Blackshear",
+   "kind": "city",
+   "geoid": "1308284",
+   "countyIds": [
+    "pierce"
+   ]
+  },
+  {
+   "id": "blairsville",
+   "name": "Blairsville",
+   "kind": "city",
+   "geoid": "1308480",
+   "countyIds": [
+    "union"
+   ]
+  },
+  {
+   "id": "blakely",
+   "name": "Blakely",
+   "kind": "city",
+   "geoid": "1308536",
+   "countyIds": [
+    "early"
+   ]
+  },
+  {
+   "id": "bloomingdale",
+   "name": "Bloomingdale",
+   "kind": "city",
+   "geoid": "1308844",
+   "countyIds": [
+    "chatham"
+   ]
+  },
+  {
+   "id": "blue-ridge",
+   "name": "Blue Ridge",
+   "kind": "city",
+   "geoid": "1308928",
+   "countyIds": [
+    "fannin"
+   ]
+  },
+  {
+   "id": "bluffton",
+   "name": "Bluffton",
+   "kind": "town",
+   "geoid": "1308956",
+   "countyIds": [
+    "clay"
+   ]
+  },
+  {
+   "id": "blythe",
+   "name": "Blythe",
+   "kind": "city",
+   "geoid": "1309040",
+   "countyIds": [
+    "burke",
+    "richmond"
+   ]
+  },
+  {
+   "id": "bogart",
+   "name": "Bogart",
+   "kind": "town",
+   "geoid": "1309068",
+   "countyIds": [
+    "clarke",
+    "oconee"
+   ]
+  },
+  {
+   "id": "boston",
+   "name": "Boston",
+   "kind": "city",
+   "geoid": "1309460",
+   "countyIds": [
+    "thomas"
+   ]
+  },
+  {
+   "id": "bostwick",
+   "name": "Bostwick",
+   "kind": "city",
+   "geoid": "1309488",
+   "countyIds": [
+    "morgan"
+   ]
+  },
+  {
+   "id": "bowdon",
+   "name": "Bowdon",
+   "kind": "city",
+   "geoid": "1309544",
+   "countyIds": [
+    "carroll"
+   ]
+  },
+  {
+   "id": "bowersville",
+   "name": "Bowersville",
+   "kind": "town",
+   "geoid": "1309656",
+   "countyIds": [
+    "hart"
+   ]
+  },
+  {
+   "id": "bowman",
+   "name": "Bowman",
+   "kind": "city",
+   "geoid": "1309712",
+   "countyIds": [
+    "elbert"
+   ]
+  },
+  {
+   "id": "braselton",
+   "name": "Braselton",
+   "kind": "town",
+   "geoid": "1310076",
+   "countyIds": [
+    "barrow",
+    "gwinnett",
+    "hall",
+    "jackson"
+   ]
+  },
+  {
+   "id": "braswell",
+   "name": "Braswell",
+   "kind": "town",
+   "geoid": "1310104",
+   "countyIds": [
+    "paulding",
+    "polk"
+   ]
+  },
+  {
+   "id": "bremen",
+   "name": "Bremen",
+   "kind": "city",
+   "geoid": "1310132",
+   "countyIds": [
+    "carroll",
+    "haralson"
+   ]
+  },
+  {
+   "id": "brinson",
+   "name": "Brinson",
+   "kind": "town",
+   "geoid": "1310608",
+   "countyIds": [
+    "decatur"
+   ]
+  },
+  {
+   "id": "bronwood",
+   "name": "Bronwood",
+   "kind": "town",
+   "geoid": "1310860",
+   "countyIds": [
+    "terrell"
+   ]
+  },
+  {
+   "id": "brookhaven",
+   "name": "Brookhaven",
+   "kind": "city",
+   "geoid": "1310944",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "brooklet",
+   "name": "Brooklet",
+   "kind": "city",
+   "geoid": "1311000",
+   "countyIds": [
+    "bulloch"
+   ]
+  },
+  {
+   "id": "brooks",
+   "name": "Brooks",
+   "kind": "town",
+   "geoid": "1311056",
+   "countyIds": [
+    "fayette"
+   ]
+  },
+  {
+   "id": "broxton",
+   "name": "Broxton",
+   "kind": "city",
+   "geoid": "1311504",
+   "countyIds": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "brunswick",
+   "name": "Brunswick",
+   "kind": "city",
+   "geoid": "1311560",
+   "countyIds": [
+    "glynn"
+   ]
+  },
+  {
+   "id": "buchanan",
+   "name": "Buchanan",
+   "kind": "city",
+   "geoid": "1311616",
+   "countyIds": [
+    "haralson"
+   ]
+  },
+  {
+   "id": "buckhead",
+   "name": "Buckhead",
+   "kind": "town",
+   "geoid": "1311672",
+   "countyIds": [
+    "morgan"
+   ]
+  },
+  {
+   "id": "buena-vista",
+   "name": "Buena Vista",
+   "kind": "city",
+   "geoid": "1311728",
+   "countyIds": [
+    "marion"
+   ]
+  },
+  {
+   "id": "buford",
+   "name": "Buford",
+   "kind": "city",
+   "geoid": "1311784",
+   "countyIds": [
+    "gwinnett",
+    "hall"
+   ]
+  },
+  {
+   "id": "butler",
+   "name": "Butler",
+   "kind": "city",
+   "geoid": "1312120",
+   "countyIds": [
+    "taylor"
+   ]
+  },
+  {
+   "id": "byromville",
+   "name": "Byromville",
+   "kind": "town",
+   "geoid": "1312232",
+   "countyIds": [
+    "dooly"
+   ]
+  },
+  {
+   "id": "byron",
+   "name": "Byron",
+   "kind": "city",
+   "geoid": "1312260",
+   "countyIds": [
+    "peach"
+   ]
+  },
+  {
+   "id": "cadwell",
+   "name": "Cadwell",
+   "kind": "town",
+   "geoid": "1312344",
+   "countyIds": [
+    "laurens"
+   ]
+  },
+  {
+   "id": "cairo",
+   "name": "Cairo",
+   "kind": "city",
+   "geoid": "1312400",
+   "countyIds": [
+    "grady"
+   ]
+  },
+  {
+   "id": "calhoun",
+   "name": "Calhoun",
+   "kind": "city",
+   "geoid": "1312456",
+   "countyIds": [
+    "gordon"
+   ]
+  },
+  {
+   "id": "camak",
+   "name": "Camak",
+   "kind": "town",
+   "geoid": "1312512",
+   "countyIds": [
+    "warren"
+   ]
+  },
+  {
+   "id": "camilla",
+   "name": "Camilla",
+   "kind": "city",
+   "geoid": "1312624",
+   "countyIds": [
+    "mitchell"
+   ]
+  },
+  {
+   "id": "canon",
+   "name": "Canon",
+   "kind": "city",
+   "geoid": "1312932",
+   "countyIds": [
+    "franklin",
+    "hart"
+   ]
+  },
+  {
+   "id": "canton",
+   "name": "Canton",
+   "kind": "city",
+   "geoid": "1312988",
+   "countyIds": [
+    "cherokee"
+   ]
+  },
+  {
+   "id": "carl",
+   "name": "Carl",
+   "kind": "town",
+   "geoid": "1313184",
+   "countyIds": [
+    "barrow"
+   ]
+  },
+  {
+   "id": "carlton",
+   "name": "Carlton",
+   "kind": "city",
+   "geoid": "1313212",
+   "countyIds": [
+    "madison"
+   ]
+  },
+  {
+   "id": "carnesville",
+   "name": "Carnesville",
+   "kind": "city",
+   "geoid": "1313352",
+   "countyIds": [
+    "franklin"
+   ]
+  },
+  {
+   "id": "carrollton",
+   "name": "Carrollton",
+   "kind": "city",
+   "geoid": "1313492",
+   "countyIds": [
+    "carroll"
+   ]
+  },
+  {
+   "id": "cartersville",
+   "name": "Cartersville",
+   "kind": "city",
+   "geoid": "1313688",
+   "countyIds": [
+    "bartow"
+   ]
+  },
+  {
+   "id": "cave-spring",
+   "name": "Cave Spring",
+   "kind": "city",
+   "geoid": "1314108",
+   "countyIds": [
+    "floyd"
+   ]
+  },
+  {
+   "id": "cecil",
+   "name": "Cecil",
+   "kind": "city",
+   "geoid": "1314192",
+   "countyIds": [
+    "cook"
+   ]
+  },
+  {
+   "id": "cedartown",
+   "name": "Cedartown",
+   "kind": "city",
+   "geoid": "1314500",
+   "countyIds": [
+    "polk"
+   ]
+  },
+  {
+   "id": "centerville",
+   "name": "Centerville",
+   "kind": "city",
+   "geoid": "1314920",
+   "countyIds": [
+    "houston"
+   ]
+  },
+  {
+   "id": "centralhatchee",
+   "name": "Centralhatchee",
+   "kind": "town",
+   "geoid": "1315026",
+   "countyIds": [
+    "heard"
+   ]
+  },
+  {
+   "id": "chamblee",
+   "name": "Chamblee",
+   "kind": "city",
+   "geoid": "1315172",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "chatsworth",
+   "name": "Chatsworth",
+   "kind": "city",
+   "geoid": "1315508",
+   "countyIds": [
+    "murray"
+   ]
+  },
+  {
+   "id": "chattahoochee-hills",
+   "name": "Chattahoochee Hills",
+   "kind": "city",
+   "geoid": "1315552",
+   "countyIds": [
+    "coweta",
+    "fulton"
+   ]
+  },
+  {
+   "id": "chauncey",
+   "name": "Chauncey",
+   "kind": "city",
+   "geoid": "1315648",
+   "countyIds": [
+    "dodge"
+   ]
+  },
+  {
+   "id": "chester",
+   "name": "Chester",
+   "kind": "town",
+   "geoid": "1315900",
+   "countyIds": [
+    "dodge"
+   ]
+  },
+  {
+   "id": "chickamauga",
+   "name": "Chickamauga",
+   "kind": "city",
+   "geoid": "1315984",
+   "countyIds": [
+    "walker"
+   ]
+  },
+  {
+   "id": "clarkesville",
+   "name": "Clarkesville",
+   "kind": "city",
+   "geoid": "1316460",
+   "countyIds": [
+    "habersham"
+   ]
+  },
+  {
+   "id": "clarkston",
+   "name": "Clarkston",
+   "kind": "city",
+   "geoid": "1316544",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "claxton",
+   "name": "Claxton",
+   "kind": "city",
+   "geoid": "1316600",
+   "countyIds": [
+    "evans"
+   ]
+  },
+  {
+   "id": "clayton",
+   "name": "Clayton",
+   "kind": "city",
+   "geoid": "1316656",
+   "countyIds": [
+    "rabun"
+   ]
+  },
+  {
+   "id": "clermont",
+   "name": "Clermont",
+   "kind": "town",
+   "geoid": "1316796",
+   "countyIds": [
+    "hall"
+   ]
+  },
+  {
+   "id": "cleveland",
+   "name": "Cleveland",
+   "kind": "city",
+   "geoid": "1316824",
+   "countyIds": [
+    "white"
+   ]
+  },
+  {
+   "id": "climax",
+   "name": "Climax",
+   "kind": "city",
+   "geoid": "1316908",
+   "countyIds": [
+    "decatur"
+   ]
+  },
+  {
+   "id": "cobbtown",
+   "name": "Cobbtown",
+   "kind": "city",
+   "geoid": "1317272",
+   "countyIds": [
+    "tattnall"
+   ]
+  },
+  {
+   "id": "cochran",
+   "name": "Cochran",
+   "kind": "city",
+   "geoid": "1317328",
+   "countyIds": [
+    "bleckley"
+   ]
+  },
+  {
+   "id": "cohutta",
+   "name": "Cohutta",
+   "kind": "city",
+   "geoid": "1317496",
+   "countyIds": [
+    "whitfield"
+   ]
+  },
+  {
+   "id": "colbert",
+   "name": "Colbert",
+   "kind": "city",
+   "geoid": "1317552",
+   "countyIds": [
+    "madison"
+   ]
+  },
+  {
+   "id": "college-park",
+   "name": "College Park",
+   "kind": "city",
+   "geoid": "1317776",
+   "countyIds": [
+    "clayton",
+    "fulton"
+   ]
+  },
+  {
+   "id": "collins",
+   "name": "Collins",
+   "kind": "city",
+   "geoid": "1317832",
+   "countyIds": [
+    "tattnall"
+   ]
+  },
+  {
+   "id": "colquitt",
+   "name": "Colquitt",
+   "kind": "city",
+   "geoid": "1318000",
+   "countyIds": [
+    "miller"
+   ]
+  },
+  {
+   "id": "columbus",
+   "name": "Columbus",
+   "kind": "city",
+   "geoid": "1319000",
+   "countyIds": [
+    "muscogee"
+   ]
+  },
+  {
+   "id": "comer",
+   "name": "Comer",
+   "kind": "city",
+   "geoid": "1319084",
+   "countyIds": [
+    "madison"
+   ]
+  },
+  {
+   "id": "commerce",
+   "name": "Commerce",
+   "kind": "city",
+   "geoid": "1319112",
+   "countyIds": [
+    "jackson"
+   ]
+  },
+  {
+   "id": "concord",
+   "name": "Concord",
+   "kind": "city",
+   "geoid": "1319168",
+   "countyIds": [
+    "pike"
+   ]
+  },
+  {
+   "id": "conyers",
+   "name": "Conyers",
+   "kind": "city",
+   "geoid": "1319336",
+   "countyIds": [
+    "rockdale"
+   ]
+  },
+  {
+   "id": "coolidge",
+   "name": "Coolidge",
+   "kind": "city",
+   "geoid": "1319392",
+   "countyIds": [
+    "thomas"
+   ]
+  },
+  {
+   "id": "cordele",
+   "name": "Cordele",
+   "kind": "city",
+   "geoid": "1319616",
+   "countyIds": [
+    "crisp"
+   ]
+  },
+  {
+   "id": "cornelia",
+   "name": "Cornelia",
+   "kind": "city",
+   "geoid": "1319728",
+   "countyIds": [
+    "habersham"
+   ]
+  },
+  {
+   "id": "covington",
+   "name": "Covington",
+   "kind": "city",
+   "geoid": "1320064",
+   "countyIds": [
+    "newton"
+   ]
+  },
+  {
+   "id": "crawford",
+   "name": "Crawford",
+   "kind": "city",
+   "geoid": "1320288",
+   "countyIds": [
+    "oglethorpe"
+   ]
+  },
+  {
+   "id": "crawfordville",
+   "name": "Crawfordville",
+   "kind": "city",
+   "geoid": "1320316",
+   "countyIds": [
+    "taliaferro"
+   ]
+  },
+  {
+   "id": "culloden",
+   "name": "Culloden",
+   "kind": "city",
+   "geoid": "1320848",
+   "countyIds": [
+    "monroe"
+   ]
+  },
+  {
+   "id": "cumming",
+   "name": "Cumming",
+   "kind": "city",
+   "geoid": "1320932",
+   "countyIds": [
+    "forsyth"
+   ]
+  },
+  {
+   "id": "cusseta-chattahoochee-county-unified-government",
+   "name": "Cusseta-Chattahoochee County unified government",
+   "kind": "consolidated government",
+   "geoid": "1321017",
+   "countyIds": [
+    "chattahoochee"
+   ]
+  },
+  {
+   "id": "cuthbert",
+   "name": "Cuthbert",
+   "kind": "city",
+   "geoid": "1321072",
+   "countyIds": [
+    "randolph"
+   ]
+  },
+  {
+   "id": "dacula",
+   "name": "Dacula",
+   "kind": "city",
+   "geoid": "1321184",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "dahlonega",
+   "name": "Dahlonega",
+   "kind": "city",
+   "geoid": "1321240",
+   "countyIds": [
+    "lumpkin"
+   ]
+  },
+  {
+   "id": "daisy",
+   "name": "Daisy",
+   "kind": "city",
+   "geoid": "1321268",
+   "countyIds": [
+    "evans"
+   ]
+  },
+  {
+   "id": "dallas",
+   "name": "Dallas",
+   "kind": "city",
+   "geoid": "1321324",
+   "countyIds": [
+    "paulding"
+   ]
+  },
+  {
+   "id": "dalton",
+   "name": "Dalton",
+   "kind": "city",
+   "geoid": "1321380",
+   "countyIds": [
+    "whitfield"
+   ]
+  },
+  {
+   "id": "damascus",
+   "name": "Damascus",
+   "kind": "city",
+   "geoid": "1321436",
+   "countyIds": [
+    "early"
+   ]
+  },
+  {
+   "id": "danielsville",
+   "name": "Danielsville",
+   "kind": "city",
+   "geoid": "1321632",
+   "countyIds": [
+    "madison"
+   ]
+  },
+  {
+   "id": "danville",
+   "name": "Danville",
+   "kind": "town",
+   "geoid": "1321688",
+   "countyIds": [
+    "twiggs",
+    "wilkinson"
+   ]
+  },
+  {
+   "id": "darien",
+   "name": "Darien",
+   "kind": "city",
+   "geoid": "1321716",
+   "countyIds": [
+    "mcintosh"
+   ]
+  },
+  {
+   "id": "dasher",
+   "name": "Dasher",
+   "kind": "town",
+   "geoid": "1321744",
+   "countyIds": [
+    "lowndes"
+   ]
+  },
+  {
+   "id": "davisboro",
+   "name": "Davisboro",
+   "kind": "city",
+   "geoid": "1321800",
+   "countyIds": [
+    "washington"
+   ]
+  },
+  {
+   "id": "dawson",
+   "name": "Dawson",
+   "kind": "city",
+   "geoid": "1321912",
+   "countyIds": [
+    "terrell"
+   ]
+  },
+  {
+   "id": "dawsonville",
+   "name": "Dawsonville",
+   "kind": "city",
+   "geoid": "1321940",
+   "countyIds": [
+    "dawson"
+   ]
+  },
+  {
+   "id": "de-soto",
+   "name": "De Soto",
+   "kind": "city",
+   "geoid": "1322472",
+   "countyIds": [
+    "sumter"
+   ]
+  },
+  {
+   "id": "dearing",
+   "name": "Dearing",
+   "kind": "town",
+   "geoid": "1322024",
+   "countyIds": [
+    "mcduffie"
+   ]
+  },
+  {
+   "id": "decatur",
+   "name": "Decatur",
+   "kind": "city",
+   "geoid": "1322052",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "deepstep",
+   "name": "Deepstep",
+   "kind": "town",
+   "geoid": "1322108",
+   "countyIds": [
+    "washington"
+   ]
+  },
+  {
+   "id": "demorest",
+   "name": "Demorest",
+   "kind": "city",
+   "geoid": "1322304",
+   "countyIds": [
+    "habersham"
+   ]
+  },
+  {
+   "id": "denton",
+   "name": "Denton",
+   "kind": "city",
+   "geoid": "1322388",
+   "countyIds": [
+    "jeff-davis"
+   ]
+  },
+  {
+   "id": "dexter",
+   "name": "Dexter",
+   "kind": "town",
+   "geoid": "1322752",
+   "countyIds": [
+    "laurens"
+   ]
+  },
+  {
+   "id": "dillard",
+   "name": "Dillard",
+   "kind": "city",
+   "geoid": "1322976",
+   "countyIds": [
+    "rabun"
+   ]
+  },
+  {
+   "id": "doerun",
+   "name": "Doerun",
+   "kind": "city",
+   "geoid": "1323284",
+   "countyIds": [
+    "colquitt"
+   ]
+  },
+  {
+   "id": "donalsonville",
+   "name": "Donalsonville",
+   "kind": "city",
+   "geoid": "1323368",
+   "countyIds": [
+    "seminole"
+   ]
+  },
+  {
+   "id": "dooling",
+   "name": "Dooling",
+   "kind": "town",
+   "geoid": "1323480",
+   "countyIds": [
+    "dooly"
+   ]
+  },
+  {
+   "id": "doraville",
+   "name": "Doraville",
+   "kind": "city",
+   "geoid": "1323536",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "douglas",
+   "name": "Douglas",
+   "kind": "city",
+   "geoid": "1323872",
+   "countyIds": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "douglasville",
+   "name": "Douglasville",
+   "kind": "city",
+   "geoid": "1323900",
+   "countyIds": [
+    "douglas"
+   ]
+  },
+  {
+   "id": "du-pont",
+   "name": "Du Pont",
+   "kind": "town",
+   "geoid": "1324796",
+   "countyIds": [
+    "clinch"
+   ]
+  },
+  {
+   "id": "dublin",
+   "name": "Dublin",
+   "kind": "city",
+   "geoid": "1324376",
+   "countyIds": [
+    "laurens"
+   ]
+  },
+  {
+   "id": "dudley",
+   "name": "Dudley",
+   "kind": "city",
+   "geoid": "1324488",
+   "countyIds": [
+    "laurens"
+   ]
+  },
+  {
+   "id": "duluth",
+   "name": "Duluth",
+   "kind": "city",
+   "geoid": "1324600",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "dunwoody",
+   "name": "Dunwoody",
+   "kind": "city",
+   "geoid": "1324768",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "east-dublin",
+   "name": "East Dublin",
+   "kind": "city",
+   "geoid": "1325300",
+   "countyIds": [
+    "laurens"
+   ]
+  },
+  {
+   "id": "east-ellijay",
+   "name": "East Ellijay",
+   "kind": "city",
+   "geoid": "1325356",
+   "countyIds": [
+    "gilmer"
+   ]
+  },
+  {
+   "id": "east-point",
+   "name": "East Point",
+   "kind": "city",
+   "geoid": "1325720",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "eastman",
+   "name": "Eastman",
+   "kind": "city",
+   "geoid": "1325552",
+   "countyIds": [
+    "dodge"
+   ]
+  },
+  {
+   "id": "eatonton",
+   "name": "Eatonton",
+   "kind": "city",
+   "geoid": "1326084",
+   "countyIds": [
+    "putnam"
+   ]
+  },
+  {
+   "id": "echols-county-consolidated-government",
+   "name": "Echols County consolidated government",
+   "kind": "consolidated government",
+   "geoid": "1326156",
+   "countyIds": [
+    "echols"
+   ]
+  },
+  {
+   "id": "edge-hill",
+   "name": "Edge Hill",
+   "kind": "city",
+   "geoid": "1326224",
+   "countyIds": [
+    "glascock"
+   ]
+  },
+  {
+   "id": "edison",
+   "name": "Edison",
+   "kind": "city",
+   "geoid": "1326448",
+   "countyIds": [
+    "calhoun"
+   ]
+  },
+  {
+   "id": "elberton",
+   "name": "Elberton",
+   "kind": "city",
+   "geoid": "1326616",
+   "countyIds": [
+    "elbert"
+   ]
+  },
+  {
+   "id": "ellaville",
+   "name": "Ellaville",
+   "kind": "city",
+   "geoid": "1326980",
+   "countyIds": [
+    "schley"
+   ]
+  },
+  {
+   "id": "ellenton",
+   "name": "Ellenton",
+   "kind": "town",
+   "geoid": "1327008",
+   "countyIds": [
+    "colquitt"
+   ]
+  },
+  {
+   "id": "ellijay",
+   "name": "Ellijay",
+   "kind": "city",
+   "geoid": "1327092",
+   "countyIds": [
+    "gilmer"
+   ]
+  },
+  {
+   "id": "emerson",
+   "name": "Emerson",
+   "kind": "city",
+   "geoid": "1327344",
+   "countyIds": [
+    "bartow"
+   ]
+  },
+  {
+   "id": "enigma",
+   "name": "Enigma",
+   "kind": "town",
+   "geoid": "1327596",
+   "countyIds": [
+    "berrien"
+   ]
+  },
+  {
+   "id": "ephesus",
+   "name": "Ephesus",
+   "kind": "city",
+   "geoid": "1327708",
+   "countyIds": [
+    "heard"
+   ]
+  },
+  {
+   "id": "eton",
+   "name": "Eton",
+   "kind": "city",
+   "geoid": "1327932",
+   "countyIds": [
+    "murray"
+   ]
+  },
+  {
+   "id": "euharlee",
+   "name": "Euharlee",
+   "kind": "city",
+   "geoid": "1327988",
+   "countyIds": [
+    "bartow"
+   ]
+  },
+  {
+   "id": "fairburn",
+   "name": "Fairburn",
+   "kind": "city",
+   "geoid": "1328380",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "fairmount",
+   "name": "Fairmount",
+   "kind": "city",
+   "geoid": "1328492",
+   "countyIds": [
+    "gordon"
+   ]
+  },
+  {
+   "id": "fargo",
+   "name": "Fargo",
+   "kind": "city",
+   "geoid": "1328744",
+   "countyIds": [
+    "clinch"
+   ]
+  },
+  {
+   "id": "fayetteville",
+   "name": "Fayetteville",
+   "kind": "city",
+   "geoid": "1328968",
+   "countyIds": [
+    "fayette"
+   ]
+  },
+  {
+   "id": "fitzgerald",
+   "name": "Fitzgerald",
+   "kind": "city",
+   "geoid": "1329528",
+   "countyIds": [
+    "ben-hill",
+    "irwin"
+   ]
+  },
+  {
+   "id": "flemington",
+   "name": "Flemington",
+   "kind": "city",
+   "geoid": "1330088",
+   "countyIds": [
+    "liberty"
+   ]
+  },
+  {
+   "id": "flovilla",
+   "name": "Flovilla",
+   "kind": "city",
+   "geoid": "1330312",
+   "countyIds": [
+    "butts"
+   ]
+  },
+  {
+   "id": "flowery-branch",
+   "name": "Flowery Branch",
+   "kind": "city",
+   "geoid": "1330340",
+   "countyIds": [
+    "hall"
+   ]
+  },
+  {
+   "id": "folkston",
+   "name": "Folkston",
+   "kind": "city",
+   "geoid": "1330424",
+   "countyIds": [
+    "charlton"
+   ]
+  },
+  {
+   "id": "forest-park",
+   "name": "Forest Park",
+   "kind": "city",
+   "geoid": "1330536",
+   "countyIds": [
+    "clayton"
+   ]
+  },
+  {
+   "id": "forsyth",
+   "name": "Forsyth",
+   "kind": "city",
+   "geoid": "1330732",
+   "countyIds": [
+    "monroe"
+   ]
+  },
+  {
+   "id": "fort-gaines",
+   "name": "Fort Gaines",
+   "kind": "city",
+   "geoid": "1330816",
+   "countyIds": [
+    "clay"
+   ]
+  },
+  {
+   "id": "fort-oglethorpe",
+   "name": "Fort Oglethorpe",
+   "kind": "city",
+   "geoid": "1330956",
+   "countyIds": [
+    "catoosa",
+    "walker"
+   ]
+  },
+  {
+   "id": "fort-valley",
+   "name": "Fort Valley",
+   "kind": "city",
+   "geoid": "1331096",
+   "countyIds": [
+    "peach"
+   ]
+  },
+  {
+   "id": "franklin",
+   "name": "Franklin",
+   "kind": "city",
+   "geoid": "1331292",
+   "countyIds": [
+    "heard"
+   ]
+  },
+  {
+   "id": "franklin-springs",
+   "name": "Franklin Springs",
+   "kind": "city",
+   "geoid": "1331320",
+   "countyIds": [
+    "franklin"
+   ]
+  },
+  {
+   "id": "funston",
+   "name": "Funston",
+   "kind": "city",
+   "geoid": "1331684",
+   "countyIds": [
+    "colquitt"
+   ]
+  },
+  {
+   "id": "gainesville",
+   "name": "Gainesville",
+   "kind": "city",
+   "geoid": "1331908",
+   "countyIds": [
+    "hall"
+   ]
+  },
+  {
+   "id": "garden-city",
+   "name": "Garden City",
+   "kind": "city",
+   "geoid": "1332048",
+   "countyIds": [
+    "chatham"
+   ]
+  },
+  {
+   "id": "garfield",
+   "name": "Garfield",
+   "kind": "city",
+   "geoid": "1332188",
+   "countyIds": [
+    "emanuel"
+   ]
+  },
+  {
+   "id": "gay",
+   "name": "Gay",
+   "kind": "town",
+   "geoid": "1332384",
+   "countyIds": [
+    "meriwether"
+   ]
+  },
+  {
+   "id": "geneva",
+   "name": "Geneva",
+   "kind": "town",
+   "geoid": "1332412",
+   "countyIds": [
+    "talbot"
+   ]
+  },
+  {
+   "id": "georgetown-quitman-county-unified-government",
+   "name": "Georgetown-Quitman County unified government",
+   "kind": "consolidated government",
+   "geoid": "1332528",
+   "countyIds": [
+    "quitman"
+   ]
+  },
+  {
+   "id": "gibson",
+   "name": "Gibson",
+   "kind": "city",
+   "geoid": "1332748",
+   "countyIds": [
+    "glascock"
+   ]
+  },
+  {
+   "id": "gillsville",
+   "name": "Gillsville",
+   "kind": "city",
+   "geoid": "1332860",
+   "countyIds": [
+    "banks",
+    "hall"
+   ]
+  },
+  {
+   "id": "girard",
+   "name": "Girard",
+   "kind": "town",
+   "geoid": "1332916",
+   "countyIds": [
+    "burke"
+   ]
+  },
+  {
+   "id": "glennville",
+   "name": "Glennville",
+   "kind": "city",
+   "geoid": "1333336",
+   "countyIds": [
+    "tattnall"
+   ]
+  },
+  {
+   "id": "glenwood",
+   "name": "Glenwood",
+   "kind": "city",
+   "geoid": "1333392",
+   "countyIds": [
+    "wheeler"
+   ]
+  },
+  {
+   "id": "good-hope",
+   "name": "Good Hope",
+   "kind": "city",
+   "geoid": "1333896",
+   "countyIds": [
+    "walton"
+   ]
+  },
+  {
+   "id": "gordon",
+   "name": "Gordon",
+   "kind": "city",
+   "geoid": "1333980",
+   "countyIds": [
+    "wilkinson"
+   ]
+  },
+  {
+   "id": "graham",
+   "name": "Graham",
+   "kind": "city",
+   "geoid": "1334260",
+   "countyIds": [
+    "appling"
+   ]
+  },
+  {
+   "id": "grantville",
+   "name": "Grantville",
+   "kind": "city",
+   "geoid": "1334428",
+   "countyIds": [
+    "coweta"
+   ]
+  },
+  {
+   "id": "gray",
+   "name": "Gray",
+   "kind": "city",
+   "geoid": "1334512",
+   "countyIds": [
+    "jones"
+   ]
+  },
+  {
+   "id": "grayson",
+   "name": "Grayson",
+   "kind": "city",
+   "geoid": "1334596",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "greensboro",
+   "name": "Greensboro",
+   "kind": "city",
+   "geoid": "1334876",
+   "countyIds": [
+    "greene"
+   ]
+  },
+  {
+   "id": "greenville",
+   "name": "Greenville",
+   "kind": "city",
+   "geoid": "1335016",
+   "countyIds": [
+    "meriwether"
+   ]
+  },
+  {
+   "id": "griffin",
+   "name": "Griffin",
+   "kind": "city",
+   "geoid": "1335324",
+   "countyIds": [
+    "spalding"
+   ]
+  },
+  {
+   "id": "grovetown",
+   "name": "Grovetown",
+   "kind": "city",
+   "geoid": "1335716",
+   "countyIds": [
+    "columbia"
+   ]
+  },
+  {
+   "id": "gumbranch",
+   "name": "Gumbranch",
+   "kind": "city",
+   "geoid": "1335800",
+   "countyIds": [
+    "liberty"
+   ]
+  },
+  {
+   "id": "guyton",
+   "name": "Guyton",
+   "kind": "city",
+   "geoid": "1335884",
+   "countyIds": [
+    "effingham"
+   ]
+  },
+  {
+   "id": "hagan",
+   "name": "Hagan",
+   "kind": "city",
+   "geoid": "1336024",
+   "countyIds": [
+    "evans"
+   ]
+  },
+  {
+   "id": "hahira",
+   "name": "Hahira",
+   "kind": "city",
+   "geoid": "1336052",
+   "countyIds": [
+    "lowndes"
+   ]
+  },
+  {
+   "id": "hamilton",
+   "name": "Hamilton",
+   "kind": "city",
+   "geoid": "1336220",
+   "countyIds": [
+    "harris"
+   ]
+  },
+  {
+   "id": "hampton",
+   "name": "Hampton",
+   "kind": "city",
+   "geoid": "1336276",
+   "countyIds": [
+    "henry"
+   ]
+  },
+  {
+   "id": "hapeville",
+   "name": "Hapeville",
+   "kind": "city",
+   "geoid": "1336472",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "haralson",
+   "name": "Haralson",
+   "kind": "town",
+   "geoid": "1336528",
+   "countyIds": [
+    "coweta",
+    "meriwether"
+   ]
+  },
+  {
+   "id": "harlem",
+   "name": "Harlem",
+   "kind": "city",
+   "geoid": "1336696",
+   "countyIds": [
+    "columbia"
+   ]
+  },
+  {
+   "id": "harrison",
+   "name": "Harrison",
+   "kind": "town",
+   "geoid": "1336920",
+   "countyIds": [
+    "washington"
+   ]
+  },
+  {
+   "id": "hartwell",
+   "name": "Hartwell",
+   "kind": "city",
+   "geoid": "1337144",
+   "countyIds": [
+    "hart"
+   ]
+  },
+  {
+   "id": "hawkinsville",
+   "name": "Hawkinsville",
+   "kind": "city",
+   "geoid": "1337396",
+   "countyIds": [
+    "pulaski"
+   ]
+  },
+  {
+   "id": "hazlehurst",
+   "name": "Hazlehurst",
+   "kind": "city",
+   "geoid": "1337564",
+   "countyIds": [
+    "jeff-davis"
+   ]
+  },
+  {
+   "id": "helen",
+   "name": "Helen",
+   "kind": "city",
+   "geoid": "1337788",
+   "countyIds": [
+    "white"
+   ]
+  },
+  {
+   "id": "hephzibah",
+   "name": "Hephzibah",
+   "kind": "city",
+   "geoid": "1338040",
+   "countyIds": [
+    "richmond"
+   ]
+  },
+  {
+   "id": "hiawassee",
+   "name": "Hiawassee",
+   "kind": "city",
+   "geoid": "1338124",
+   "countyIds": [
+    "towns"
+   ]
+  },
+  {
+   "id": "higgston",
+   "name": "Higgston",
+   "kind": "town",
+   "geoid": "1338348",
+   "countyIds": [
+    "montgomery"
+   ]
+  },
+  {
+   "id": "hiltonia",
+   "name": "Hiltonia",
+   "kind": "town",
+   "geoid": "1338920",
+   "countyIds": [
+    "screven"
+   ]
+  },
+  {
+   "id": "hinesville",
+   "name": "Hinesville",
+   "kind": "city",
+   "geoid": "1338964",
+   "countyIds": [
+    "liberty"
+   ]
+  },
+  {
+   "id": "hiram",
+   "name": "Hiram",
+   "kind": "city",
+   "geoid": "1339076",
+   "countyIds": [
+    "paulding"
+   ]
+  },
+  {
+   "id": "hoboken",
+   "name": "Hoboken",
+   "kind": "city",
+   "geoid": "1339216",
+   "countyIds": [
+    "brantley"
+   ]
+  },
+  {
+   "id": "hogansville",
+   "name": "Hogansville",
+   "kind": "city",
+   "geoid": "1339244",
+   "countyIds": [
+    "troup"
+   ]
+  },
+  {
+   "id": "holly-springs",
+   "name": "Holly Springs",
+   "kind": "city",
+   "geoid": "1339524",
+   "countyIds": [
+    "cherokee"
+   ]
+  },
+  {
+   "id": "homeland",
+   "name": "Homeland",
+   "kind": "city",
+   "geoid": "1339692",
+   "countyIds": [
+    "charlton"
+   ]
+  },
+  {
+   "id": "homer",
+   "name": "Homer",
+   "kind": "town",
+   "geoid": "1339720",
+   "countyIds": [
+    "banks"
+   ]
+  },
+  {
+   "id": "homerville",
+   "name": "Homerville",
+   "kind": "city",
+   "geoid": "1339748",
+   "countyIds": [
+    "clinch"
+   ]
+  },
+  {
+   "id": "hoschton",
+   "name": "Hoschton",
+   "kind": "city",
+   "geoid": "1340056",
+   "countyIds": [
+    "jackson"
+   ]
+  },
+  {
+   "id": "hull",
+   "name": "Hull",
+   "kind": "city",
+   "geoid": "1340532",
+   "countyIds": [
+    "madison"
+   ]
+  },
+  {
+   "id": "ideal",
+   "name": "Ideal",
+   "kind": "city",
+   "geoid": "1340812",
+   "countyIds": [
+    "macon"
+   ]
+  },
+  {
+   "id": "ila",
+   "name": "Ila",
+   "kind": "city",
+   "geoid": "1340840",
+   "countyIds": [
+    "madison"
+   ]
+  },
+  {
+   "id": "iron-city",
+   "name": "Iron City",
+   "kind": "town",
+   "geoid": "1341344",
+   "countyIds": [
+    "seminole"
+   ]
+  },
+  {
+   "id": "irwinton",
+   "name": "Irwinton",
+   "kind": "city",
+   "geoid": "1341400",
+   "countyIds": [
+    "wilkinson"
+   ]
+  },
+  {
+   "id": "ivey",
+   "name": "Ivey",
+   "kind": "city",
+   "geoid": "1341540",
+   "countyIds": [
+    "wilkinson"
+   ]
+  },
+  {
+   "id": "jackson",
+   "name": "Jackson",
+   "kind": "city",
+   "geoid": "1341596",
+   "countyIds": [
+    "butts"
+   ]
+  },
+  {
+   "id": "jacksonville",
+   "name": "Jacksonville",
+   "kind": "city",
+   "geoid": "1341708",
+   "countyIds": [
+    "telfair"
+   ]
+  },
+  {
+   "id": "jakin",
+   "name": "Jakin",
+   "kind": "city",
+   "geoid": "1341792",
+   "countyIds": [
+    "early"
+   ]
+  },
+  {
+   "id": "jasper",
+   "name": "Jasper",
+   "kind": "city",
+   "geoid": "1341932",
+   "countyIds": [
+    "pickens"
+   ]
+  },
+  {
+   "id": "jefferson",
+   "name": "Jefferson",
+   "kind": "city",
+   "geoid": "1341988",
+   "countyIds": [
+    "jackson"
+   ]
+  },
+  {
+   "id": "jeffersonville",
+   "name": "Jeffersonville",
+   "kind": "city",
+   "geoid": "1342100",
+   "countyIds": [
+    "twiggs"
+   ]
+  },
+  {
+   "id": "jenkinsburg",
+   "name": "Jenkinsburg",
+   "kind": "city",
+   "geoid": "1342156",
+   "countyIds": [
+    "butts"
+   ]
+  },
+  {
+   "id": "jersey",
+   "name": "Jersey",
+   "kind": "city",
+   "geoid": "1342184",
+   "countyIds": [
+    "walton"
+   ]
+  },
+  {
+   "id": "jesup",
+   "name": "Jesup",
+   "kind": "city",
+   "geoid": "1342268",
+   "countyIds": [
+    "wayne"
+   ]
+  },
+  {
+   "id": "johns-creek",
+   "name": "Johns Creek",
+   "kind": "city",
+   "geoid": "1342425",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "jonesboro",
+   "name": "Jonesboro",
+   "kind": "city",
+   "geoid": "1342604",
+   "countyIds": [
+    "clayton"
+   ]
+  },
+  {
+   "id": "junction-city",
+   "name": "Junction City",
+   "kind": "town",
+   "geoid": "1342800",
+   "countyIds": [
+    "talbot"
+   ]
+  },
+  {
+   "id": "kennesaw",
+   "name": "Kennesaw",
+   "kind": "city",
+   "geoid": "1343192",
+   "countyIds": [
+    "cobb"
+   ]
+  },
+  {
+   "id": "keysville",
+   "name": "Keysville",
+   "kind": "city",
+   "geoid": "1343360",
+   "countyIds": [
+    "burke"
+   ]
+  },
+  {
+   "id": "kingsland",
+   "name": "Kingsland",
+   "kind": "city",
+   "geoid": "1343640",
+   "countyIds": [
+    "camden"
+   ]
+  },
+  {
+   "id": "kingston",
+   "name": "Kingston",
+   "kind": "city",
+   "geoid": "1343668",
+   "countyIds": [
+    "bartow"
+   ]
+  },
+  {
+   "id": "kite",
+   "name": "Kite",
+   "kind": "city",
+   "geoid": "1343892",
+   "countyIds": [
+    "johnson"
+   ]
+  },
+  {
+   "id": "lafayette",
+   "name": "LaFayette",
+   "kind": "city",
+   "geoid": "1344312",
+   "countyIds": [
+    "walker"
+   ]
+  },
+  {
+   "id": "lagrange",
+   "name": "LaGrange",
+   "kind": "city",
+   "geoid": "1344340",
+   "countyIds": [
+    "troup"
+   ]
+  },
+  {
+   "id": "lake-city",
+   "name": "Lake City",
+   "kind": "city",
+   "geoid": "1344508",
+   "countyIds": [
+    "clayton"
+   ]
+  },
+  {
+   "id": "lake-park",
+   "name": "Lake Park",
+   "kind": "city",
+   "geoid": "1344704",
+   "countyIds": [
+    "lowndes"
+   ]
+  },
+  {
+   "id": "lakeland",
+   "name": "Lakeland",
+   "kind": "city",
+   "geoid": "1344592",
+   "countyIds": [
+    "lanier"
+   ]
+  },
+  {
+   "id": "lavonia",
+   "name": "Lavonia",
+   "kind": "city",
+   "geoid": "1345460",
+   "countyIds": [
+    "franklin",
+    "hart"
+   ]
+  },
+  {
+   "id": "lawrenceville",
+   "name": "Lawrenceville",
+   "kind": "city",
+   "geoid": "1345488",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "leary",
+   "name": "Leary",
+   "kind": "city",
+   "geoid": "1345600",
+   "countyIds": [
+    "calhoun"
+   ]
+  },
+  {
+   "id": "leesburg",
+   "name": "Leesburg",
+   "kind": "city",
+   "geoid": "1345768",
+   "countyIds": [
+    "lee"
+   ]
+  },
+  {
+   "id": "lenox",
+   "name": "Lenox",
+   "kind": "town",
+   "geoid": "1345936",
+   "countyIds": [
+    "cook"
+   ]
+  },
+  {
+   "id": "leslie",
+   "name": "Leslie",
+   "kind": "city",
+   "geoid": "1346020",
+   "countyIds": [
+    "sumter"
+   ]
+  },
+  {
+   "id": "lexington",
+   "name": "Lexington",
+   "kind": "city",
+   "geoid": "1346188",
+   "countyIds": [
+    "oglethorpe"
+   ]
+  },
+  {
+   "id": "lilburn",
+   "name": "Lilburn",
+   "kind": "city",
+   "geoid": "1346356",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "lilly",
+   "name": "Lilly",
+   "kind": "city",
+   "geoid": "1346384",
+   "countyIds": [
+    "dooly"
+   ]
+  },
+  {
+   "id": "lincolnton",
+   "name": "Lincolnton",
+   "kind": "city",
+   "geoid": "1346552",
+   "countyIds": [
+    "lincoln"
+   ]
+  },
+  {
+   "id": "lithonia",
+   "name": "Lithonia",
+   "kind": "city",
+   "geoid": "1346860",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "locust-grove",
+   "name": "Locust Grove",
+   "kind": "city",
+   "geoid": "1347140",
+   "countyIds": [
+    "henry"
+   ]
+  },
+  {
+   "id": "loganville",
+   "name": "Loganville",
+   "kind": "city",
+   "geoid": "1347196",
+   "countyIds": [
+    "gwinnett",
+    "walton"
+   ]
+  },
+  {
+   "id": "lone-oak",
+   "name": "Lone Oak",
+   "kind": "town",
+   "geoid": "1347252",
+   "countyIds": [
+    "meriwether"
+   ]
+  },
+  {
+   "id": "lookout-mountain",
+   "name": "Lookout Mountain",
+   "kind": "city",
+   "geoid": "1347336",
+   "countyIds": [
+    "walker"
+   ]
+  },
+  {
+   "id": "louisville",
+   "name": "Louisville",
+   "kind": "city",
+   "geoid": "1347560",
+   "countyIds": [
+    "jefferson"
+   ]
+  },
+  {
+   "id": "lovejoy",
+   "name": "Lovejoy",
+   "kind": "city",
+   "geoid": "1347616",
+   "countyIds": [
+    "clayton"
+   ]
+  },
+  {
+   "id": "ludowici",
+   "name": "Ludowici",
+   "kind": "city",
+   "geoid": "1347784",
+   "countyIds": [
+    "long"
+   ]
+  },
+  {
+   "id": "lula",
+   "name": "Lula",
+   "kind": "city",
+   "geoid": "1347896",
+   "countyIds": [
+    "banks",
+    "hall"
+   ]
+  },
+  {
+   "id": "lumber-city",
+   "name": "Lumber City",
+   "kind": "city",
+   "geoid": "1347952",
+   "countyIds": [
+    "telfair"
+   ]
+  },
+  {
+   "id": "lumpkin",
+   "name": "Lumpkin",
+   "kind": "city",
+   "geoid": "1347980",
+   "countyIds": [
+    "stewart"
+   ]
+  },
+  {
+   "id": "luthersville",
+   "name": "Luthersville",
+   "kind": "city",
+   "geoid": "1348008",
+   "countyIds": [
+    "meriwether"
+   ]
+  },
+  {
+   "id": "lyerly",
+   "name": "Lyerly",
+   "kind": "town",
+   "geoid": "1348092",
+   "countyIds": [
+    "chattooga"
+   ]
+  },
+  {
+   "id": "lyons",
+   "name": "Lyons",
+   "kind": "city",
+   "geoid": "1348232",
+   "countyIds": [
+    "toombs"
+   ]
+  },
+  {
+   "id": "macon-bibb-county",
+   "name": "Macon-Bibb County",
+   "kind": "consolidated government",
+   "geoid": "1349008",
+   "countyIds": [
+    "bibb"
+   ]
+  },
+  {
+   "id": "madison",
+   "name": "Madison",
+   "kind": "city",
+   "geoid": "1349196",
+   "countyIds": [
+    "morgan"
+   ]
+  },
+  {
+   "id": "manassas",
+   "name": "Manassas",
+   "kind": "city",
+   "geoid": "1349504",
+   "countyIds": [
+    "tattnall"
+   ]
+  },
+  {
+   "id": "manchester",
+   "name": "Manchester",
+   "kind": "city",
+   "geoid": "1349532",
+   "countyIds": [
+    "meriwether",
+    "talbot"
+   ]
+  },
+  {
+   "id": "mansfield",
+   "name": "Mansfield",
+   "kind": "city",
+   "geoid": "1349616",
+   "countyIds": [
+    "newton"
+   ]
+  },
+  {
+   "id": "marietta",
+   "name": "Marietta",
+   "kind": "city",
+   "geoid": "1349756",
+   "countyIds": [
+    "cobb"
+   ]
+  },
+  {
+   "id": "marshallville",
+   "name": "Marshallville",
+   "kind": "city",
+   "geoid": "1349924",
+   "countyIds": [
+    "macon"
+   ]
+  },
+  {
+   "id": "martin",
+   "name": "Martin",
+   "kind": "town",
+   "geoid": "1350008",
+   "countyIds": [
+    "franklin",
+    "stephens"
+   ]
+  },
+  {
+   "id": "maxeys",
+   "name": "Maxeys",
+   "kind": "town",
+   "geoid": "1350260",
+   "countyIds": [
+    "oglethorpe"
+   ]
+  },
+  {
+   "id": "maysville",
+   "name": "Maysville",
+   "kind": "town",
+   "geoid": "1350484",
+   "countyIds": [
+    "banks",
+    "jackson"
+   ]
+  },
+  {
+   "id": "mccaysville",
+   "name": "McCaysville",
+   "kind": "city",
+   "geoid": "1348428",
+   "countyIds": [
+    "fannin"
+   ]
+  },
+  {
+   "id": "mcdonough",
+   "name": "McDonough",
+   "kind": "city",
+   "geoid": "1348624",
+   "countyIds": [
+    "henry"
+   ]
+  },
+  {
+   "id": "mcintyre",
+   "name": "McIntyre",
+   "kind": "town",
+   "geoid": "1348848",
+   "countyIds": [
+    "wilkinson"
+   ]
+  },
+  {
+   "id": "mcrae-helena",
+   "name": "McRae-Helena",
+   "kind": "city",
+   "geoid": "1349100",
+   "countyIds": [
+    "telfair",
+    "wheeler"
+   ]
+  },
+  {
+   "id": "meansville",
+   "name": "Meansville",
+   "kind": "city",
+   "geoid": "1350596",
+   "countyIds": [
+    "pike"
+   ]
+  },
+  {
+   "id": "meigs",
+   "name": "Meigs",
+   "kind": "city",
+   "geoid": "1350680",
+   "countyIds": [
+    "mitchell",
+    "thomas"
+   ]
+  },
+  {
+   "id": "menlo",
+   "name": "Menlo",
+   "kind": "city",
+   "geoid": "1350848",
+   "countyIds": [
+    "chattooga"
+   ]
+  },
+  {
+   "id": "metter",
+   "name": "Metter",
+   "kind": "city",
+   "geoid": "1351072",
+   "countyIds": [
+    "candler"
+   ]
+  },
+  {
+   "id": "midville",
+   "name": "Midville",
+   "kind": "city",
+   "geoid": "1351240",
+   "countyIds": [
+    "burke"
+   ]
+  },
+  {
+   "id": "midway",
+   "name": "Midway",
+   "kind": "city",
+   "geoid": "1351352",
+   "countyIds": [
+    "liberty"
+   ]
+  },
+  {
+   "id": "milan",
+   "name": "Milan",
+   "kind": "city",
+   "geoid": "1351408",
+   "countyIds": [
+    "dodge",
+    "telfair"
+   ]
+  },
+  {
+   "id": "milledgeville",
+   "name": "Milledgeville",
+   "kind": "city",
+   "geoid": "1351492",
+   "countyIds": [
+    "baldwin"
+   ]
+  },
+  {
+   "id": "millen",
+   "name": "Millen",
+   "kind": "city",
+   "geoid": "1351520",
+   "countyIds": [
+    "jenkins"
+   ]
+  },
+  {
+   "id": "milner",
+   "name": "Milner",
+   "kind": "city",
+   "geoid": "1351604",
+   "countyIds": [
+    "lamar"
+   ]
+  },
+  {
+   "id": "milton",
+   "name": "Milton",
+   "kind": "city",
+   "geoid": "1351670",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "mitchell",
+   "name": "Mitchell",
+   "kind": "town",
+   "geoid": "1351968",
+   "countyIds": [
+    "glascock"
+   ]
+  },
+  {
+   "id": "molena",
+   "name": "Molena",
+   "kind": "city",
+   "geoid": "1352108",
+   "countyIds": [
+    "pike"
+   ]
+  },
+  {
+   "id": "monroe",
+   "name": "Monroe",
+   "kind": "city",
+   "geoid": "1352192",
+   "countyIds": [
+    "walton"
+   ]
+  },
+  {
+   "id": "montezuma",
+   "name": "Montezuma",
+   "kind": "city",
+   "geoid": "1352304",
+   "countyIds": [
+    "macon"
+   ]
+  },
+  {
+   "id": "monticello",
+   "name": "Monticello",
+   "kind": "city",
+   "geoid": "1352416",
+   "countyIds": [
+    "jasper"
+   ]
+  },
+  {
+   "id": "montrose",
+   "name": "Montrose",
+   "kind": "town",
+   "geoid": "1352500",
+   "countyIds": [
+    "laurens"
+   ]
+  },
+  {
+   "id": "moreland",
+   "name": "Moreland",
+   "kind": "town",
+   "geoid": "1352668",
+   "countyIds": [
+    "coweta"
+   ]
+  },
+  {
+   "id": "morgan",
+   "name": "Morgan",
+   "kind": "city",
+   "geoid": "1352696",
+   "countyIds": [
+    "calhoun"
+   ]
+  },
+  {
+   "id": "morganton",
+   "name": "Morganton",
+   "kind": "city",
+   "geoid": "1352724",
+   "countyIds": [
+    "fannin"
+   ]
+  },
+  {
+   "id": "morrow",
+   "name": "Morrow",
+   "kind": "city",
+   "geoid": "1353004",
+   "countyIds": [
+    "clayton"
+   ]
+  },
+  {
+   "id": "morven",
+   "name": "Morven",
+   "kind": "city",
+   "geoid": "1353032",
+   "countyIds": [
+    "brooks"
+   ]
+  },
+  {
+   "id": "moultrie",
+   "name": "Moultrie",
+   "kind": "city",
+   "geoid": "1353060",
+   "countyIds": [
+    "colquitt"
+   ]
+  },
+  {
+   "id": "mount-airy",
+   "name": "Mount Airy",
+   "kind": "town",
+   "geoid": "1353284",
+   "countyIds": [
+    "habersham"
+   ]
+  },
+  {
+   "id": "mount-vernon",
+   "name": "Mount Vernon",
+   "kind": "city",
+   "geoid": "1353508",
+   "countyIds": [
+    "montgomery"
+   ]
+  },
+  {
+   "id": "mount-zion",
+   "name": "Mount Zion",
+   "kind": "city",
+   "geoid": "1353620",
+   "countyIds": [
+    "carroll"
+   ]
+  },
+  {
+   "id": "mountain-city",
+   "name": "Mountain City",
+   "kind": "town",
+   "geoid": "1353116",
+   "countyIds": [
+    "rabun"
+   ]
+  },
+  {
+   "id": "mountain-park",
+   "name": "Mountain Park",
+   "kind": "city",
+   "geoid": "1353172",
+   "countyIds": [
+    "cherokee",
+    "fulton"
+   ]
+  },
+  {
+   "id": "nahunta",
+   "name": "Nahunta",
+   "kind": "city",
+   "geoid": "1354124",
+   "countyIds": [
+    "brantley"
+   ]
+  },
+  {
+   "id": "nashville",
+   "name": "Nashville",
+   "kind": "city",
+   "geoid": "1354264",
+   "countyIds": [
+    "berrien"
+   ]
+  },
+  {
+   "id": "nelson",
+   "name": "Nelson",
+   "kind": "city",
+   "geoid": "1354572",
+   "countyIds": [
+    "cherokee",
+    "pickens"
+   ]
+  },
+  {
+   "id": "newborn",
+   "name": "Newborn",
+   "kind": "town",
+   "geoid": "1354656",
+   "countyIds": [
+    "newton"
+   ]
+  },
+  {
+   "id": "newington",
+   "name": "Newington",
+   "kind": "town",
+   "geoid": "1354992",
+   "countyIds": [
+    "screven"
+   ]
+  },
+  {
+   "id": "newnan",
+   "name": "Newnan",
+   "kind": "city",
+   "geoid": "1355020",
+   "countyIds": [
+    "coweta"
+   ]
+  },
+  {
+   "id": "newton",
+   "name": "Newton",
+   "kind": "city",
+   "geoid": "1355244",
+   "countyIds": [
+    "baker"
+   ]
+  },
+  {
+   "id": "nicholls",
+   "name": "Nicholls",
+   "kind": "city",
+   "geoid": "1355440",
+   "countyIds": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "nicholson",
+   "name": "Nicholson",
+   "kind": "city",
+   "geoid": "1355468",
+   "countyIds": [
+    "jackson"
+   ]
+  },
+  {
+   "id": "norcross",
+   "name": "Norcross",
+   "kind": "city",
+   "geoid": "1355776",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "norman-park",
+   "name": "Norman Park",
+   "kind": "city",
+   "geoid": "1355860",
+   "countyIds": [
+    "colquitt"
+   ]
+  },
+  {
+   "id": "north-high-shoals",
+   "name": "North High Shoals",
+   "kind": "town",
+   "geoid": "1356308",
+   "countyIds": [
+    "oconee"
+   ]
+  },
+  {
+   "id": "norwood",
+   "name": "Norwood",
+   "kind": "city",
+   "geoid": "1356560",
+   "countyIds": [
+    "warren"
+   ]
+  },
+  {
+   "id": "nunez",
+   "name": "Nunez",
+   "kind": "city",
+   "geoid": "1356644",
+   "countyIds": [
+    "emanuel"
+   ]
+  },
+  {
+   "id": "oak-park",
+   "name": "Oak Park",
+   "kind": "town",
+   "geoid": "1357232",
+   "countyIds": [
+    "emanuel"
+   ]
+  },
+  {
+   "id": "oakwood",
+   "name": "Oakwood",
+   "kind": "city",
+   "geoid": "1357260",
+   "countyIds": [
+    "hall"
+   ]
+  },
+  {
+   "id": "ochlocknee",
+   "name": "Ochlocknee",
+   "kind": "town",
+   "geoid": "1357372",
+   "countyIds": [
+    "thomas"
+   ]
+  },
+  {
+   "id": "ocilla",
+   "name": "Ocilla",
+   "kind": "city",
+   "geoid": "1357428",
+   "countyIds": [
+    "irwin"
+   ]
+  },
+  {
+   "id": "oconee",
+   "name": "Oconee",
+   "kind": "city",
+   "geoid": "1357456",
+   "countyIds": [
+    "washington"
+   ]
+  },
+  {
+   "id": "odum",
+   "name": "Odum",
+   "kind": "city",
+   "geoid": "1357540",
+   "countyIds": [
+    "wayne"
+   ]
+  },
+  {
+   "id": "offerman",
+   "name": "Offerman",
+   "kind": "city",
+   "geoid": "1357568",
+   "countyIds": [
+    "pierce"
+   ]
+  },
+  {
+   "id": "oglethorpe",
+   "name": "Oglethorpe",
+   "kind": "city",
+   "geoid": "1357736",
+   "countyIds": [
+    "macon"
+   ]
+  },
+  {
+   "id": "oliver",
+   "name": "Oliver",
+   "kind": "city",
+   "geoid": "1358100",
+   "countyIds": [
+    "screven"
+   ]
+  },
+  {
+   "id": "omega",
+   "name": "Omega",
+   "kind": "city",
+   "geoid": "1358184",
+   "countyIds": [
+    "colquitt",
+    "tift"
+   ]
+  },
+  {
+   "id": "orchard-hill",
+   "name": "Orchard Hill",
+   "kind": "town",
+   "geoid": "1358296",
+   "countyIds": [
+    "spalding"
+   ]
+  },
+  {
+   "id": "oxford",
+   "name": "Oxford",
+   "kind": "city",
+   "geoid": "1358744",
+   "countyIds": [
+    "newton"
+   ]
+  },
+  {
+   "id": "palmetto",
+   "name": "Palmetto",
+   "kind": "city",
+   "geoid": "1358884",
+   "countyIds": [
+    "coweta",
+    "fulton"
+   ]
+  },
+  {
+   "id": "parrott",
+   "name": "Parrott",
+   "kind": "town",
+   "geoid": "1359416",
+   "countyIds": [
+    "terrell"
+   ]
+  },
+  {
+   "id": "patterson",
+   "name": "Patterson",
+   "kind": "city",
+   "geoid": "1359500",
+   "countyIds": [
+    "pierce"
+   ]
+  },
+  {
+   "id": "pavo",
+   "name": "Pavo",
+   "kind": "city",
+   "geoid": "1359556",
+   "countyIds": [
+    "brooks",
+    "thomas"
+   ]
+  },
+  {
+   "id": "peachtree-city",
+   "name": "Peachtree City",
+   "kind": "city",
+   "geoid": "1359724",
+   "countyIds": [
+    "fayette"
+   ]
+  },
+  {
+   "id": "peachtree-corners",
+   "name": "Peachtree Corners",
+   "kind": "city",
+   "geoid": "1359735",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "pearson",
+   "name": "Pearson",
+   "kind": "city",
+   "geoid": "1359808",
+   "countyIds": [
+    "atkinson"
+   ]
+  },
+  {
+   "id": "pelham",
+   "name": "Pelham",
+   "kind": "city",
+   "geoid": "1359976",
+   "countyIds": [
+    "mitchell"
+   ]
+  },
+  {
+   "id": "pembroke",
+   "name": "Pembroke",
+   "kind": "city",
+   "geoid": "1360004",
+   "countyIds": [
+    "bryan"
+   ]
+  },
+  {
+   "id": "pendergrass",
+   "name": "Pendergrass",
+   "kind": "town",
+   "geoid": "1360032",
+   "countyIds": [
+    "jackson"
+   ]
+  },
+  {
+   "id": "perry",
+   "name": "Perry",
+   "kind": "city",
+   "geoid": "1360340",
+   "countyIds": [
+    "houston",
+    "peach"
+   ]
+  },
+  {
+   "id": "pine-lake",
+   "name": "Pine Lake",
+   "kind": "city",
+   "geoid": "1361040",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "pine-mountain",
+   "name": "Pine Mountain",
+   "kind": "town",
+   "geoid": "1361124",
+   "countyIds": [
+    "harris",
+    "meriwether"
+   ]
+  },
+  {
+   "id": "pinehurst",
+   "name": "Pinehurst",
+   "kind": "city",
+   "geoid": "1360984",
+   "countyIds": [
+    "dooly"
+   ]
+  },
+  {
+   "id": "pineview",
+   "name": "Pineview",
+   "kind": "town",
+   "geoid": "1361320",
+   "countyIds": [
+    "wilcox"
+   ]
+  },
+  {
+   "id": "pitts",
+   "name": "Pitts",
+   "kind": "city",
+   "geoid": "1361544",
+   "countyIds": [
+    "wilcox"
+   ]
+  },
+  {
+   "id": "plains",
+   "name": "Plains",
+   "kind": "city",
+   "geoid": "1361628",
+   "countyIds": [
+    "sumter"
+   ]
+  },
+  {
+   "id": "plainville",
+   "name": "Plainville",
+   "kind": "city",
+   "geoid": "1361684",
+   "countyIds": [
+    "gordon"
+   ]
+  },
+  {
+   "id": "pooler",
+   "name": "Pooler",
+   "kind": "city",
+   "geoid": "1362104",
+   "countyIds": [
+    "chatham"
+   ]
+  },
+  {
+   "id": "port-wentworth",
+   "name": "Port Wentworth",
+   "kind": "city",
+   "geoid": "1362328",
+   "countyIds": [
+    "chatham"
+   ]
+  },
+  {
+   "id": "portal",
+   "name": "Portal",
+   "kind": "town",
+   "geoid": "1362216",
+   "countyIds": [
+    "bulloch"
+   ]
+  },
+  {
+   "id": "porterdale",
+   "name": "Porterdale",
+   "kind": "city",
+   "geoid": "1362244",
+   "countyIds": [
+    "newton"
+   ]
+  },
+  {
+   "id": "poulan",
+   "name": "Poulan",
+   "kind": "city",
+   "geoid": "1362496",
+   "countyIds": [
+    "worth"
+   ]
+  },
+  {
+   "id": "powder-springs",
+   "name": "Powder Springs",
+   "kind": "city",
+   "geoid": "1362524",
+   "countyIds": [
+    "cobb"
+   ]
+  },
+  {
+   "id": "pulaski",
+   "name": "Pulaski",
+   "kind": "town",
+   "geoid": "1363000",
+   "countyIds": [
+    "candler"
+   ]
+  },
+  {
+   "id": "quitman",
+   "name": "Quitman",
+   "kind": "city",
+   "geoid": "1363224",
+   "countyIds": [
+    "brooks"
+   ]
+  },
+  {
+   "id": "ranger",
+   "name": "Ranger",
+   "kind": "town",
+   "geoid": "1363560",
+   "countyIds": [
+    "gordon"
+   ]
+  },
+  {
+   "id": "ray-city",
+   "name": "Ray City",
+   "kind": "city",
+   "geoid": "1363728",
+   "countyIds": [
+    "berrien",
+    "lanier"
+   ]
+  },
+  {
+   "id": "rayle",
+   "name": "Rayle",
+   "kind": "town",
+   "geoid": "1363756",
+   "countyIds": [
+    "wilkes"
+   ]
+  },
+  {
+   "id": "rebecca",
+   "name": "Rebecca",
+   "kind": "town",
+   "geoid": "1363840",
+   "countyIds": [
+    "turner"
+   ]
+  },
+  {
+   "id": "register",
+   "name": "Register",
+   "kind": "town",
+   "geoid": "1364372",
+   "countyIds": [
+    "bulloch"
+   ]
+  },
+  {
+   "id": "reidsville",
+   "name": "Reidsville",
+   "kind": "city",
+   "geoid": "1364512",
+   "countyIds": [
+    "tattnall"
+   ]
+  },
+  {
+   "id": "remerton",
+   "name": "Remerton",
+   "kind": "city",
+   "geoid": "1364596",
+   "countyIds": [
+    "lowndes"
+   ]
+  },
+  {
+   "id": "rentz",
+   "name": "Rentz",
+   "kind": "city",
+   "geoid": "1364680",
+   "countyIds": [
+    "laurens"
+   ]
+  },
+  {
+   "id": "resaca",
+   "name": "Resaca",
+   "kind": "town",
+   "geoid": "1364736",
+   "countyIds": [
+    "gordon"
+   ]
+  },
+  {
+   "id": "rest-haven",
+   "name": "Rest Haven",
+   "kind": "town",
+   "geoid": "1364792",
+   "countyIds": [
+    "gwinnett",
+    "hall"
+   ]
+  },
+  {
+   "id": "reynolds",
+   "name": "Reynolds",
+   "kind": "city",
+   "geoid": "1364876",
+   "countyIds": [
+    "taylor"
+   ]
+  },
+  {
+   "id": "rhine",
+   "name": "Rhine",
+   "kind": "town",
+   "geoid": "1364932",
+   "countyIds": [
+    "dodge"
+   ]
+  },
+  {
+   "id": "riceboro",
+   "name": "Riceboro",
+   "kind": "city",
+   "geoid": "1364960",
+   "countyIds": [
+    "liberty"
+   ]
+  },
+  {
+   "id": "richland",
+   "name": "Richland",
+   "kind": "city",
+   "geoid": "1365016",
+   "countyIds": [
+    "stewart"
+   ]
+  },
+  {
+   "id": "richmond-hill",
+   "name": "Richmond Hill",
+   "kind": "city",
+   "geoid": "1365044",
+   "countyIds": [
+    "bryan"
+   ]
+  },
+  {
+   "id": "riddleville",
+   "name": "Riddleville",
+   "kind": "town",
+   "geoid": "1365156",
+   "countyIds": [
+    "washington"
+   ]
+  },
+  {
+   "id": "rincon",
+   "name": "Rincon",
+   "kind": "city",
+   "geoid": "1365296",
+   "countyIds": [
+    "effingham"
+   ]
+  },
+  {
+   "id": "ringgold",
+   "name": "Ringgold",
+   "kind": "city",
+   "geoid": "1365324",
+   "countyIds": [
+    "catoosa"
+   ]
+  },
+  {
+   "id": "riverdale",
+   "name": "Riverdale",
+   "kind": "city",
+   "geoid": "1365464",
+   "countyIds": [
+    "clayton"
+   ]
+  },
+  {
+   "id": "roberta",
+   "name": "Roberta",
+   "kind": "city",
+   "geoid": "1365856",
+   "countyIds": [
+    "crawford"
+   ]
+  },
+  {
+   "id": "rochelle",
+   "name": "Rochelle",
+   "kind": "city",
+   "geoid": "1366024",
+   "countyIds": [
+    "wilcox"
+   ]
+  },
+  {
+   "id": "rockmart",
+   "name": "Rockmart",
+   "kind": "city",
+   "geoid": "1366276",
+   "countyIds": [
+    "polk"
+   ]
+  },
+  {
+   "id": "rocky-ford",
+   "name": "Rocky Ford",
+   "kind": "town",
+   "geoid": "1366444",
+   "countyIds": [
+    "screven"
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "kind": "city",
+   "geoid": "1366668",
+   "countyIds": [
+    "floyd"
+   ]
+  },
+  {
+   "id": "roopville",
+   "name": "Roopville",
+   "kind": "town",
+   "geoid": "1366696",
+   "countyIds": [
+    "carroll"
+   ]
+  },
+  {
+   "id": "rossville",
+   "name": "Rossville",
+   "kind": "city",
+   "geoid": "1367256",
+   "countyIds": [
+    "walker"
+   ]
+  },
+  {
+   "id": "roswell",
+   "name": "Roswell",
+   "kind": "city",
+   "geoid": "1367284",
+   "countyIds": [
+    "cobb",
+    "fulton"
+   ]
+  },
+  {
+   "id": "royston",
+   "name": "Royston",
+   "kind": "city",
+   "geoid": "1367452",
+   "countyIds": [
+    "franklin",
+    "hart",
+    "madison"
+   ]
+  },
+  {
+   "id": "rutledge",
+   "name": "Rutledge",
+   "kind": "city",
+   "geoid": "1367760",
+   "countyIds": [
+    "morgan"
+   ]
+  },
+  {
+   "id": "sale-city",
+   "name": "Sale City",
+   "kind": "city",
+   "geoid": "1368096",
+   "countyIds": [
+    "mitchell"
+   ]
+  },
+  {
+   "id": "sandersville",
+   "name": "Sandersville",
+   "kind": "city",
+   "geoid": "1368208",
+   "countyIds": [
+    "washington"
+   ]
+  },
+  {
+   "id": "sandy-springs",
+   "name": "Sandy Springs",
+   "kind": "city",
+   "geoid": "1368516",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "santa-claus",
+   "name": "Santa Claus",
+   "kind": "city",
+   "geoid": "1368600",
+   "countyIds": [
+    "toombs"
+   ]
+  },
+  {
+   "id": "sardis",
+   "name": "Sardis",
+   "kind": "city",
+   "geoid": "1368740",
+   "countyIds": [
+    "burke"
+   ]
+  },
+  {
+   "id": "sasser",
+   "name": "Sasser",
+   "kind": "town",
+   "geoid": "1368796",
+   "countyIds": [
+    "terrell"
+   ]
+  },
+  {
+   "id": "savannah",
+   "name": "Savannah",
+   "kind": "city",
+   "geoid": "1369000",
+   "countyIds": [
+    "chatham"
+   ]
+  },
+  {
+   "id": "scotland",
+   "name": "Scotland",
+   "kind": "city",
+   "geoid": "1369336",
+   "countyIds": [
+    "telfair",
+    "wheeler"
+   ]
+  },
+  {
+   "id": "screven",
+   "name": "Screven",
+   "kind": "city",
+   "geoid": "1369448",
+   "countyIds": [
+    "wayne"
+   ]
+  },
+  {
+   "id": "senoia",
+   "name": "Senoia",
+   "kind": "city",
+   "geoid": "1369672",
+   "countyIds": [
+    "coweta"
+   ]
+  },
+  {
+   "id": "shady-dale",
+   "name": "Shady Dale",
+   "kind": "town",
+   "geoid": "1369784",
+   "countyIds": [
+    "jasper"
+   ]
+  },
+  {
+   "id": "sharon",
+   "name": "Sharon",
+   "kind": "city",
+   "geoid": "1369896",
+   "countyIds": [
+    "taliaferro"
+   ]
+  },
+  {
+   "id": "sharpsburg",
+   "name": "Sharpsburg",
+   "kind": "town",
+   "geoid": "1369980",
+   "countyIds": [
+    "coweta"
+   ]
+  },
+  {
+   "id": "shellman",
+   "name": "Shellman",
+   "kind": "city",
+   "geoid": "1370120",
+   "countyIds": [
+    "randolph"
+   ]
+  },
+  {
+   "id": "shiloh",
+   "name": "Shiloh",
+   "kind": "city",
+   "geoid": "1370428",
+   "countyIds": [
+    "harris"
+   ]
+  },
+  {
+   "id": "siloam",
+   "name": "Siloam",
+   "kind": "town",
+   "geoid": "1370932",
+   "countyIds": [
+    "greene"
+   ]
+  },
+  {
+   "id": "sky-valley",
+   "name": "Sky Valley",
+   "kind": "city",
+   "geoid": "1371282",
+   "countyIds": [
+    "rabun"
+   ]
+  },
+  {
+   "id": "smithville",
+   "name": "Smithville",
+   "kind": "city",
+   "geoid": "1371464",
+   "countyIds": [
+    "lee"
+   ]
+  },
+  {
+   "id": "smyrna",
+   "name": "Smyrna",
+   "kind": "city",
+   "geoid": "1371492",
+   "countyIds": [
+    "cobb"
+   ]
+  },
+  {
+   "id": "snellville",
+   "name": "Snellville",
+   "kind": "city",
+   "geoid": "1371604",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "social-circle",
+   "name": "Social Circle",
+   "kind": "city",
+   "geoid": "1371660",
+   "countyIds": [
+    "newton",
+    "walton"
+   ]
+  },
+  {
+   "id": "soperton",
+   "name": "Soperton",
+   "kind": "city",
+   "geoid": "1371772",
+   "countyIds": [
+    "treutlen"
+   ]
+  },
+  {
+   "id": "south-fulton",
+   "name": "South Fulton",
+   "kind": "city",
+   "geoid": "1372122",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "sparks",
+   "name": "Sparks",
+   "kind": "town",
+   "geoid": "1372556",
+   "countyIds": [
+    "cook"
+   ]
+  },
+  {
+   "id": "sparta",
+   "name": "Sparta",
+   "kind": "city",
+   "geoid": "1372584",
+   "countyIds": [
+    "hancock"
+   ]
+  },
+  {
+   "id": "springfield",
+   "name": "Springfield",
+   "kind": "city",
+   "geoid": "1372780",
+   "countyIds": [
+    "effingham"
+   ]
+  },
+  {
+   "id": "st-marys",
+   "name": "St. Marys",
+   "kind": "city",
+   "geoid": "1367984",
+   "countyIds": [
+    "camden"
+   ]
+  },
+  {
+   "id": "stapleton",
+   "name": "Stapleton",
+   "kind": "city",
+   "geoid": "1373004",
+   "countyIds": [
+    "jefferson"
+   ]
+  },
+  {
+   "id": "statesboro",
+   "name": "Statesboro",
+   "kind": "city",
+   "geoid": "1373256",
+   "countyIds": [
+    "bulloch"
+   ]
+  },
+  {
+   "id": "statham",
+   "name": "Statham",
+   "kind": "city",
+   "geoid": "1373312",
+   "countyIds": [
+    "barrow"
+   ]
+  },
+  {
+   "id": "stillmore",
+   "name": "Stillmore",
+   "kind": "city",
+   "geoid": "1373620",
+   "countyIds": [
+    "emanuel"
+   ]
+  },
+  {
+   "id": "stockbridge",
+   "name": "Stockbridge",
+   "kind": "city",
+   "geoid": "1373704",
+   "countyIds": [
+    "henry"
+   ]
+  },
+  {
+   "id": "stone-mountain",
+   "name": "Stone Mountain",
+   "kind": "city",
+   "geoid": "1373816",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "stonecrest",
+   "name": "Stonecrest",
+   "kind": "city",
+   "geoid": "1373784",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "sugar-hill",
+   "name": "Sugar Hill",
+   "kind": "city",
+   "geoid": "1374180",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "summertown",
+   "name": "Summertown",
+   "kind": "city",
+   "geoid": "1374348",
+   "countyIds": [
+    "emanuel"
+   ]
+  },
+  {
+   "id": "summerville",
+   "name": "Summerville",
+   "kind": "city",
+   "geoid": "1374376",
+   "countyIds": [
+    "chattooga"
+   ]
+  },
+  {
+   "id": "sumner",
+   "name": "Sumner",
+   "kind": "town",
+   "geoid": "1374432",
+   "countyIds": [
+    "worth"
+   ]
+  },
+  {
+   "id": "sunny-side",
+   "name": "Sunny Side",
+   "kind": "city",
+   "geoid": "1374572",
+   "countyIds": [
+    "spalding"
+   ]
+  },
+  {
+   "id": "surrency",
+   "name": "Surrency",
+   "kind": "town",
+   "geoid": "1374852",
+   "countyIds": [
+    "appling"
+   ]
+  },
+  {
+   "id": "suwanee",
+   "name": "Suwanee",
+   "kind": "city",
+   "geoid": "1374936",
+   "countyIds": [
+    "gwinnett"
+   ]
+  },
+  {
+   "id": "swainsboro",
+   "name": "Swainsboro",
+   "kind": "city",
+   "geoid": "1374964",
+   "countyIds": [
+    "emanuel"
+   ]
+  },
+  {
+   "id": "sycamore",
+   "name": "Sycamore",
+   "kind": "city",
+   "geoid": "1375104",
+   "countyIds": [
+    "turner"
+   ]
+  },
+  {
+   "id": "sylvania",
+   "name": "Sylvania",
+   "kind": "city",
+   "geoid": "1375160",
+   "countyIds": [
+    "screven"
+   ]
+  },
+  {
+   "id": "sylvester",
+   "name": "Sylvester",
+   "kind": "city",
+   "geoid": "1375188",
+   "countyIds": [
+    "worth"
+   ]
+  },
+  {
+   "id": "talbotton",
+   "name": "Talbotton",
+   "kind": "city",
+   "geoid": "1375244",
+   "countyIds": [
+    "talbot"
+   ]
+  },
+  {
+   "id": "talking-rock",
+   "name": "Talking Rock",
+   "kind": "town",
+   "geoid": "1375272",
+   "countyIds": [
+    "pickens"
+   ]
+  },
+  {
+   "id": "tallapoosa",
+   "name": "Tallapoosa",
+   "kind": "city",
+   "geoid": "1375300",
+   "countyIds": [
+    "haralson"
+   ]
+  },
+  {
+   "id": "tallulah-falls",
+   "name": "Tallulah Falls",
+   "kind": "town",
+   "geoid": "1375328",
+   "countyIds": [
+    "habersham",
+    "rabun"
+   ]
+  },
+  {
+   "id": "talmo",
+   "name": "Talmo",
+   "kind": "town",
+   "geoid": "1375412",
+   "countyIds": [
+    "jackson"
+   ]
+  },
+  {
+   "id": "tarrytown",
+   "name": "Tarrytown",
+   "kind": "town",
+   "geoid": "1375496",
+   "countyIds": [
+    "montgomery"
+   ]
+  },
+  {
+   "id": "taylorsville",
+   "name": "Taylorsville",
+   "kind": "town",
+   "geoid": "1375664",
+   "countyIds": [
+    "bartow",
+    "polk"
+   ]
+  },
+  {
+   "id": "temple",
+   "name": "Temple",
+   "kind": "city",
+   "geoid": "1375832",
+   "countyIds": [
+    "carroll",
+    "haralson"
+   ]
+  },
+  {
+   "id": "tennille",
+   "name": "Tennille",
+   "kind": "city",
+   "geoid": "1375888",
+   "countyIds": [
+    "washington"
+   ]
+  },
+  {
+   "id": "thomaston",
+   "name": "Thomaston",
+   "kind": "city",
+   "geoid": "1376168",
+   "countyIds": [
+    "upson"
+   ]
+  },
+  {
+   "id": "thomasville",
+   "name": "Thomasville",
+   "kind": "city",
+   "geoid": "1376224",
+   "countyIds": [
+    "thomas"
+   ]
+  },
+  {
+   "id": "thomson",
+   "name": "Thomson",
+   "kind": "city",
+   "geoid": "1376280",
+   "countyIds": [
+    "mcduffie"
+   ]
+  },
+  {
+   "id": "thunderbolt",
+   "name": "Thunderbolt",
+   "kind": "town",
+   "geoid": "1376364",
+   "countyIds": [
+    "chatham"
+   ]
+  },
+  {
+   "id": "tifton",
+   "name": "Tifton",
+   "kind": "city",
+   "geoid": "1376476",
+   "countyIds": [
+    "tift"
+   ]
+  },
+  {
+   "id": "tiger",
+   "name": "Tiger",
+   "kind": "town",
+   "geoid": "1376504",
+   "countyIds": [
+    "rabun"
+   ]
+  },
+  {
+   "id": "tignall",
+   "name": "Tignall",
+   "kind": "town",
+   "geoid": "1376532",
+   "countyIds": [
+    "wilkes"
+   ]
+  },
+  {
+   "id": "toccoa",
+   "name": "Toccoa",
+   "kind": "city",
+   "geoid": "1376756",
+   "countyIds": [
+    "stephens"
+   ]
+  },
+  {
+   "id": "toomsboro",
+   "name": "Toomsboro",
+   "kind": "city",
+   "geoid": "1376952",
+   "countyIds": [
+    "wilkinson"
+   ]
+  },
+  {
+   "id": "trenton",
+   "name": "Trenton",
+   "kind": "city",
+   "geoid": "1377372",
+   "countyIds": [
+    "dade"
+   ]
+  },
+  {
+   "id": "trion",
+   "name": "Trion",
+   "kind": "town",
+   "geoid": "1377540",
+   "countyIds": [
+    "chattooga"
+   ]
+  },
+  {
+   "id": "tucker",
+   "name": "Tucker",
+   "kind": "city",
+   "geoid": "1377652",
+   "countyIds": [
+    "dekalb"
+   ]
+  },
+  {
+   "id": "tunnel-hill",
+   "name": "Tunnel Hill",
+   "kind": "city",
+   "geoid": "1377736",
+   "countyIds": [
+    "whitfield"
+   ]
+  },
+  {
+   "id": "turin",
+   "name": "Turin",
+   "kind": "town",
+   "geoid": "1377764",
+   "countyIds": [
+    "coweta"
+   ]
+  },
+  {
+   "id": "twin-city",
+   "name": "Twin City",
+   "kind": "city",
+   "geoid": "1377988",
+   "countyIds": [
+    "emanuel"
+   ]
+  },
+  {
+   "id": "ty-ty",
+   "name": "Ty Ty",
+   "kind": "city",
+   "geoid": "1378100",
+   "countyIds": [
+    "tift"
+   ]
+  },
+  {
+   "id": "tybee-island",
+   "name": "Tybee Island",
+   "kind": "city",
+   "geoid": "1378036",
+   "countyIds": [
+    "chatham"
+   ]
+  },
+  {
+   "id": "tyrone",
+   "name": "Tyrone",
+   "kind": "town",
+   "geoid": "1378044",
+   "countyIds": [
+    "fayette"
+   ]
+  },
+  {
+   "id": "unadilla",
+   "name": "Unadilla",
+   "kind": "city",
+   "geoid": "1378156",
+   "countyIds": [
+    "dooly"
+   ]
+  },
+  {
+   "id": "union-city",
+   "name": "Union City",
+   "kind": "city",
+   "geoid": "1378324",
+   "countyIds": [
+    "fulton"
+   ]
+  },
+  {
+   "id": "union-point",
+   "name": "Union Point",
+   "kind": "city",
+   "geoid": "1378380",
+   "countyIds": [
+    "greene"
+   ]
+  },
+  {
+   "id": "uvalda",
+   "name": "Uvalda",
+   "kind": "city",
+   "geoid": "1378744",
+   "countyIds": [
+    "montgomery"
+   ]
+  },
+  {
+   "id": "valdosta",
+   "name": "Valdosta",
+   "kind": "city",
+   "geoid": "1378800",
+   "countyIds": [
+    "lowndes"
+   ]
+  },
+  {
+   "id": "varnell",
+   "name": "Varnell",
+   "kind": "city",
+   "geoid": "1378996",
+   "countyIds": [
+    "whitfield"
+   ]
+  },
+  {
+   "id": "vernonburg",
+   "name": "Vernonburg",
+   "kind": "town",
+   "geoid": "1379164",
+   "countyIds": [
+    "chatham"
+   ]
+  },
+  {
+   "id": "vidalia",
+   "name": "Vidalia",
+   "kind": "city",
+   "geoid": "1379388",
+   "countyIds": [
+    "montgomery",
+    "toombs"
+   ]
+  },
+  {
+   "id": "vidette",
+   "name": "Vidette",
+   "kind": "city",
+   "geoid": "1379416",
+   "countyIds": [
+    "burke"
+   ]
+  },
+  {
+   "id": "vienna",
+   "name": "Vienna",
+   "kind": "city",
+   "geoid": "1379444",
+   "countyIds": [
+    "dooly"
+   ]
+  },
+  {
+   "id": "villa-rica",
+   "name": "Villa Rica",
+   "kind": "city",
+   "geoid": "1379528",
+   "countyIds": [
+    "carroll",
+    "douglas"
+   ]
+  },
+  {
+   "id": "waco",
+   "name": "Waco",
+   "kind": "city",
+   "geoid": "1379808",
+   "countyIds": [
+    "haralson"
+   ]
+  },
+  {
+   "id": "wadley",
+   "name": "Wadley",
+   "kind": "city",
+   "geoid": "1379864",
+   "countyIds": [
+    "jefferson"
+   ]
+  },
+  {
+   "id": "waleska",
+   "name": "Waleska",
+   "kind": "city",
+   "geoid": "1379948",
+   "countyIds": [
+    "cherokee"
+   ]
+  },
+  {
+   "id": "walnut-grove",
+   "name": "Walnut Grove",
+   "kind": "city",
+   "geoid": "1380228",
+   "countyIds": [
+    "walton"
+   ]
+  },
+  {
+   "id": "walthourville",
+   "name": "Walthourville",
+   "kind": "city",
+   "geoid": "1380256",
+   "countyIds": [
+    "liberty"
+   ]
+  },
+  {
+   "id": "warm-springs",
+   "name": "Warm Springs",
+   "kind": "city",
+   "geoid": "1380480",
+   "countyIds": [
+    "meriwether"
+   ]
+  },
+  {
+   "id": "warner-robins",
+   "name": "Warner Robins",
+   "kind": "city",
+   "geoid": "1380508",
+   "countyIds": [
+    "houston",
+    "peach"
+   ]
+  },
+  {
+   "id": "warrenton",
+   "name": "Warrenton",
+   "kind": "city",
+   "geoid": "1380592",
+   "countyIds": [
+    "warren"
+   ]
+  },
+  {
+   "id": "warwick",
+   "name": "Warwick",
+   "kind": "city",
+   "geoid": "1380676",
+   "countyIds": [
+    "worth"
+   ]
+  },
+  {
+   "id": "washington",
+   "name": "Washington",
+   "kind": "city",
+   "geoid": "1380704",
+   "countyIds": [
+    "wilkes"
+   ]
+  },
+  {
+   "id": "watkinsville",
+   "name": "Watkinsville",
+   "kind": "city",
+   "geoid": "1380788",
+   "countyIds": [
+    "oconee"
+   ]
+  },
+  {
+   "id": "waverly-hall",
+   "name": "Waverly Hall",
+   "kind": "town",
+   "geoid": "1380844",
+   "countyIds": [
+    "harris"
+   ]
+  },
+  {
+   "id": "waycross",
+   "name": "Waycross",
+   "kind": "city",
+   "geoid": "1380956",
+   "countyIds": [
+    "pierce",
+    "ware"
+   ]
+  },
+  {
+   "id": "waynesboro",
+   "name": "Waynesboro",
+   "kind": "city",
+   "geoid": "1380984",
+   "countyIds": [
+    "burke"
+   ]
+  },
+  {
+   "id": "webster-county-unified-government",
+   "name": "Webster County unified government",
+   "kind": "consolidated government",
+   "geoid": "1381128",
+   "countyIds": [
+    "webster"
+   ]
+  },
+  {
+   "id": "west-point",
+   "name": "West Point",
+   "kind": "city",
+   "geoid": "1382132",
+   "countyIds": [
+    "harris",
+    "troup"
+   ]
+  },
+  {
+   "id": "whigham",
+   "name": "Whigham",
+   "kind": "city",
+   "geoid": "1382412",
+   "countyIds": [
+    "grady"
+   ]
+  },
+  {
+   "id": "white",
+   "name": "White",
+   "kind": "city",
+   "geoid": "1382468",
+   "countyIds": [
+    "bartow"
+   ]
+  },
+  {
+   "id": "white-plains",
+   "name": "White Plains",
+   "kind": "city",
+   "geoid": "1382692",
+   "countyIds": [
+    "greene"
+   ]
+  },
+  {
+   "id": "whitesburg",
+   "name": "Whitesburg",
+   "kind": "city",
+   "geoid": "1382720",
+   "countyIds": [
+    "carroll"
+   ]
+  },
+  {
+   "id": "willacoochee",
+   "name": "Willacoochee",
+   "kind": "city",
+   "geoid": "1382972",
+   "countyIds": [
+    "atkinson"
+   ]
+  },
+  {
+   "id": "williamson",
+   "name": "Williamson",
+   "kind": "city",
+   "geoid": "1383084",
+   "countyIds": [
+    "pike"
+   ]
+  },
+  {
+   "id": "winder",
+   "name": "Winder",
+   "kind": "city",
+   "geoid": "1383420",
+   "countyIds": [
+    "barrow"
+   ]
+  },
+  {
+   "id": "winterville",
+   "name": "Winterville",
+   "kind": "city",
+   "geoid": "1383728",
+   "countyIds": [
+    "clarke"
+   ]
+  },
+  {
+   "id": "woodbine",
+   "name": "Woodbine",
+   "kind": "city",
+   "geoid": "1383868",
+   "countyIds": [
+    "camden"
+   ]
+  },
+  {
+   "id": "woodbury",
+   "name": "Woodbury",
+   "kind": "city",
+   "geoid": "1383896",
+   "countyIds": [
+    "meriwether"
+   ]
+  },
+  {
+   "id": "woodland",
+   "name": "Woodland",
+   "kind": "city",
+   "geoid": "1383952",
+   "countyIds": [
+    "talbot"
+   ]
+  },
+  {
+   "id": "woodstock",
+   "name": "Woodstock",
+   "kind": "city",
+   "geoid": "1384176",
+   "countyIds": [
+    "cherokee"
+   ]
+  },
+  {
+   "id": "woodville",
+   "name": "Woodville",
+   "kind": "city",
+   "geoid": "1384260",
+   "countyIds": [
+    "greene"
+   ]
+  },
+  {
+   "id": "woolsey",
+   "name": "Woolsey",
+   "kind": "town",
+   "geoid": "1384288",
+   "countyIds": [
+    "fayette"
+   ]
+  },
+  {
+   "id": "wrens",
+   "name": "Wrens",
+   "kind": "city",
+   "geoid": "1384456",
+   "countyIds": [
+    "jefferson"
+   ]
+  },
+  {
+   "id": "wrightsville",
+   "name": "Wrightsville",
+   "kind": "city",
+   "geoid": "1384512",
+   "countyIds": [
+    "johnson"
+   ]
+  },
+  {
+   "id": "yatesville",
+   "name": "Yatesville",
+   "kind": "town",
+   "geoid": "1384708",
+   "countyIds": [
+    "upson"
+   ]
+  },
+  {
+   "id": "young-harris",
+   "name": "Young Harris",
+   "kind": "city",
+   "geoid": "1384960",
+   "countyIds": [
+    "towns"
+   ]
+  },
+  {
+   "id": "zebulon",
+   "name": "Zebulon",
+   "kind": "city",
+   "geoid": "1385128",
+   "countyIds": [
+    "pike"
+   ]
+  }
+ ]
+}
